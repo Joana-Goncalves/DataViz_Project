@@ -1,0 +1,1966 @@
+﻿CountryID,Country,Occurrence,Total deaths,Persons affected,Continent,Type of disaster,Decade
+4,Afghanistan,3,0,48000,Asia,Climatological,1990-1999
+8,Albania,1,0,3200000,Europe,Climatological,1990-1999
+12,Algeria,2,22,0,Africa,Climatological,1990-1999
+24,Angola,4,0,2585000,Africa,Climatological,1990-1999
+660,Anguilla,1,0,0,North America,Climatological,1990-1999
+28,Antigua and Barbuda,1,0,75000,North America,Climatological,1990-1999
+32,Argentina,3,24,152752,South America,Climatological,1990-1999
+51,Armenia,,,,Asia,Climatological,1990-1999
+36,Australia,27,890,7150201,Oceania,Climatological,1990-1999
+40,Austria,,,,Europe,Climatological,1990-1999
+31,Azerbaijan,,,,Asia,Climatological,1990-1999
+50,Bangladesh,6,1900018,25002000,Asia,Climatological,1990-1999
+52,Barbados,,,,North America,Climatological,1990-1999
+112,Belarus,,,,Europe,Climatological,1990-1999
+56,Belgium,1,0,0,Europe,Climatological,1990-1999
+204,Benin,4,2,2222200,Africa,Climatological,1990-1999
+64,Bhutan,1,0,0,Asia,Climatological,1990-1999
+68,Bolivia,7,3,3422509,South America,Climatological,1990-1999
+70,Bosnia and Herzegovina,,,,Europe,Climatological,1990-1999
+72,Botswana,5,0,1344900,Africa,Climatological,1990-1999
+76,Brazil,13,21,45762000,South America,Climatological,1990-1999
+96,Brunei,1,0,0,Asia,Climatological,1990-1999
+100,Bulgaria,1,0,0,Europe,Climatological,1990-1999
+854,Burkina Faso,10,0,5563290,Africa,Climatological,1990-1999
+108,Burundi,1,6,650000,Africa,Climatological,1990-1999
+132,Cabo Verde,9,85000,10000,Africa,Climatological,1990-1999
+116,Cambodia,2,0,5000000,Asia,Climatological,1990-1999
+120,Cameroon,2,0,586900,Africa,Climatological,1990-1999
+124,Canada,19,117,118800,North America,Climatological,1990-1999
+140,Central African Republic,2,0,85,Africa,Climatological,1990-1999
+148,Chad,7,3000,3056000,Africa,Climatological,1990-1999
+152,Chile,6,10,121300,South America,Climatological,1990-1999
+156,China,20,3503643,208806313,Asia,Climatological,1990-1999
+170,Colombia,2,0,100000,South America,Climatological,1990-1999
+174,Comoros,1,0,0,Africa,Climatological,1990-1999
+188,Costa Rica,5,0,1200,North America,Climatological,1990-1999
+384,Côte d’Ivoire,1,0,0,Africa,Climatological,1990-1999
+191,Croatia,1,0,0,Europe,Climatological,1990-1999
+192,Cuba,6,0,820000,North America,Climatological,1990-1999
+196,Cyprus,1,0,0,Asia,Climatological,1990-1999
+203,Czech Republic,,,,Europe,Climatological,1990-1999
+180,Democratic Republic of the Congo,2,0,800000,Africa,Climatological,1990-1999
+208,Denmark,1,0,0,Europe,Climatological,1990-1999
+262,Djibouti,4,0,355000,Africa,Climatological,1990-1999
+214,Dominican Republic,3,0,240000,North America,Climatological,1990-1999
+218,Ecuador,4,0,634800,South America,Climatological,1990-1999
+818,Egypt,,,,Africa,Climatological,1990-1999
+222,El Salvador,3,0,0,North America,Climatological,1990-1999
+232,Eritrea,2,0,3900000,Africa,Climatological,1990-1999
+748,Eswatini,3,500,250000,Africa,Climatological,1990-1999
+231,Ethiopia,9,402367,33336200,Africa,Climatological,1990-1999
+242,Fiji,2,0,294455,Oceania,Climatological,1990-1999
+246,Finland,,,,Europe,Climatological,1990-1999
+250,France,13,105,3413,Europe,Climatological,1990-1999
+254,French Guiana,,,,South America,Climatological,1990-1999
+266,Gabon,,,,Africa,Climatological,1990-1999
+270,Gambia,7,0,835000,Africa,Climatological,1990-1999
+268,Georgia,,,,Asia,Climatological,1990-1999
+276,Germany,,,,Europe,Climatological,1990-1999
+288,Ghana,4,4,12513500,Africa,Climatological,1990-1999
+300,Greece,8,29,2514,Europe,Climatological,1990-1999
+308,Grenada,,,,North America,Climatological,1990-1999
+320,Guatemala,3,0,73000,North America,Climatological,1990-1999
+324,Guinea,2,12,0,Africa,Climatological,1990-1999
+624,Guinea-Bissau,5,3,1500,Africa,Climatological,1990-1999
+328,Guyana,2,0,607200,South America,Climatological,1990-1999
+332,Haiti,6,0,2270217,North America,Climatological,1990-1999
+340,Honduras,4,0,400000,North America,Climatological,1990-1999
+344,Hong Kong,39,0,9003,Asia,Climatological,1990-1999
+348,Hungary,2,0,0,Europe,Climatological,1990-1999
+352,Iceland,,,,Europe,Climatological,1990-1999
+356,India,13,4250306,711841000,Asia,Climatological,1990-1999
+360,Indonesia,13,9629,7823298,Asia,Climatological,1990-1999
+364,Iran,2,0,37625000,Asia,Climatological,1990-1999
+368,Iraq,2,0,500000,Asia,Climatological,1990-1999
+372,Ireland,,,,Europe,Climatological,1990-1999
+376,Israel,3,0,240,Asia,Climatological,1990-1999
+380,Italy,6,8,320,Europe,Climatological,1990-1999
+388,Jamaica,2,0,100000,North America,Climatological,1990-1999
+392,Japan,1,0,0,Asia,Climatological,1990-1999
+400,Jordan,1,0,180000,Asia,Climatological,1990-1999
+398,Kazakhstan,1,0,8000,Asia,Climatological,1990-1999
+404,Kenya,8,85,29550000,Africa,Climatological,1990-1999
+296,Kiribati,1,0,84000,Oceania,Climatological,1990-1999
+417,Kyrgyzstan,,,,Asia,Climatological,1990-1999
+418,Laos,5,0,4250000,Asia,Climatological,1990-1999
+428,Latvia,,,,Europe,Climatological,1990-1999
+422,Lebanon,,,,Asia,Climatological,1990-1999
+426,Lesotho,3,0,1035500,Africa,Climatological,1990-1999
+430,Liberia,1,0,0,Africa,Climatological,1990-1999
+440,Lithuania,1,0,0,Europe,Climatological,1990-1999
+450,Madagascar,2,200,1950000,Africa,Climatological,1990-1999
+454,Malawi,3,0,11229267,Africa,Climatological,1990-1999
+458,Malaysia,4,0,8000,Asia,Climatological,1990-1999
+466,Mali,6,0,1802000,Africa,Climatological,1990-1999
+584,Marshall Islands,,,,Oceania,Climatological,1990-1999
+478,Mauritania,9,0,4860907,Africa,Climatological,1990-1999
+480,Mauritius,1,0,0,Africa,Climatological,1990-1999
+484,Mexico,8,110,65000,North America,Climatological,1990-1999
+583,Micronesia,1,0,28800,Oceania,Climatological,1990-1999
+498,Moldova,,,,Europe,Climatological,1990-1999
+496,Mongolia,3,25,5061,Asia,Climatological,1990-1999
+499,Montenegro,,,,Europe,Climatological,1990-1999
+504,Morocco,5,0,412000,Africa,Climatological,1990-1999
+508,Mozambique,5,100050,14058000,Africa,Climatological,1990-1999
+104,Myanmar,2,8,78588,Asia,Climatological,1990-1999
+516,Namibia,4,0,438200,Africa,Climatological,1990-1999
+524,Nepal,6,88,4454000,Asia,Climatological,1990-1999
+554,New Zealand,2,0,130,Oceania,Climatological,1990-1999
+558,Nicaragua,4,0,365000,North America,Climatological,1990-1999
+562,Niger,9,85000,6170500,Africa,Climatological,1990-1999
+566,Nigeria,1,0,3000000,Africa,Climatological,1990-1999
+408,North Korea,,,,Asia,Climatological,1990-1999
+807,North Macedonia,1,0,10000,Europe,Climatological,1990-1999
+578,Norway,,,,Europe,Climatological,1990-1999
+512,Oman,,,,Asia,Climatological,1990-1999
+586,Pakistan,1,143,2200000,Asia,Climatological,1990-1999
+591,Panama,1,0,81000,North America,Climatological,1990-1999
+598,Papua New Guinea,3,60,548000,Oceania,Climatological,1990-1999
+600,Paraguay,3,12,53400,South America,Climatological,1990-1999
+604,Peru,6,0,3585604,South America,Climatological,1990-1999
+608,Philippines,7,10,6553507,Asia,Climatological,1990-1999
+616,Poland,2,35,0,Europe,Climatological,1990-1999
+620,Portugal,7,54,50,Europe,Climatological,1990-1999
+630,Puerto Rico,1,0,0,North America,Climatological,1990-1999
+178,Republic of the Congo,1,0,0,Africa,Climatological,1990-1999
+642,Romania,1,0,0,Europe,Climatological,1990-1999
+643,Russia,9,67,101283,Europe,Climatological,1990-1999
+646,Rwanda,5,237,3156545,Africa,Climatological,1990-1999
+662,Saint Lucia,,,,North America,Climatological,1990-1999
+670,Saint Vincent and the Grenadines,,,,North America,Climatological,1990-1999
+882,Samoa,1,0,1000,Oceania,Climatological,1990-1999
+678,Sao Tome and Principe,1,0,93000,Africa,Climatological,1990-1999
+682,Saudi Arabia,,,,Asia,Climatological,1990-1999
+686,Senegal,7,0,7265000,Africa,Climatological,1990-1999
+694,Sierra Leone,,,,Africa,Climatological,1990-1999
+703,Slovakia,,,,Europe,Climatological,1990-1999
+705,Slovenia,,,,Europe,Climatological,1990-1999
+90,Solomon Islands,2,0,380,Oceania,Climatological,1990-1999
+706,Somalia,7,19650,1483500,Africa,Climatological,1990-1999
+710,South Africa,10,34,2478005,Africa,Climatological,1990-1999
+410,South Korea,1,0,2800000,Asia,Climatological,1990-1999
+728,South Sudan,,,,Africa,Climatological,1990-1999
+724,Spain,11,37,6017420,Europe,Climatological,1990-1999
+144,Sri Lanka,7,0,5256000,Asia,Climatological,1990-1999
+729,Sudan,7,150047,21210000,Africa,Climatological,1990-1999
+740,Suriname,,,,South America,Climatological,1990-1999
+752,Sweden,,,,Europe,Climatological,1990-1999
+756,Switzerland,,,,Europe,Climatological,1990-1999
+760,Syria,1,0,329000,Asia,Climatological,1990-1999
+762,Tajikistan,,,,Asia,Climatological,1990-1999
+834,Tanzania,7,0,5883483,Africa,Climatological,1990-1999
+764,Thailand,3,0,8500000,Asia,Climatological,1990-1999
+626,Timor-Leste,,,,Asia,Climatological,1990-1999
+768,Togo,3,0,550000,Africa,Climatological,1990-1999
+776,Tonga,,,,Oceania,Climatological,1990-1999
+780,Trinidad and Tobago,,,,North America,Climatological,1990-1999
+788,Tunisia,2,0,31400,Africa,Climatological,1990-1999
+792,Turkey,2,13,500,Europe,Climatological,1990-1999
+798,Tuvalu,,,,Oceania,Climatological,1990-1999
+800,Uganda,5,115,1951000,Africa,Climatological,1990-1999
+826,UK,,,,Europe,Climatological,1990-1999
+804,Ukraine,,,,Europe,Climatological,1990-1999
+784,United Arab Emirates,,,,Asia,Climatological,1990-1999
+858,Uruguay,1,0,0,South America,Climatological,1990-1999
+840,USA,29,1180,46142,North America,Climatological,1990-1999
+860,Uzbekistan,,,,Asia,Climatological,1990-1999
+862,Venezuela,,,,South America,Climatological,1990-1999
+704,Vietnam,3,0,4400000,Asia,Climatological,1990-1999
+887,Yemen,,,,Asia,Climatological,1990-1999
+894,Zambia,4,0,2973204,Africa,Climatological,1990-1999
+716,Zimbabwe,3,0,5055000,Africa,Climatological,1990-1999
+4,Afghanistan,10,7426,352293,Asia,Geophysical,1990-1999
+8,Albania,1,0,2100,Europe,Geophysical,1990-1999
+12,Algeria,3,193,30214,Africa,Geophysical,1990-1999
+16,American Samoa,,,,Oceania,Geophysical,1990-1999
+32,Argentina,1,0,63200,South America,Geophysical,1990-1999
+51,Armenia,1,0,15000,Asia,Geophysical,1990-1999
+36,Australia,1,0,5025,Oceania,Geophysical,1990-1999
+40,Austria,1,0,0,Europe,Geophysical,1990-1999
+31,Azerbaijan,2,2,709178,Asia,Geophysical,1990-1999
+50,Bangladesh,2,29,15400,Asia,Geophysical,1990-1999
+52,Barbados,,,,North America,Geophysical,1990-1999
+112,Belarus,,,,Europe,Geophysical,1990-1999
+56,Belgium,1,0,0,Europe,Geophysical,1990-1999
+64,Bhutan,,,,Asia,Geophysical,1990-1999
+68,Bolivia,2,100,18050,South America,Geophysical,1990-1999
+76,Brazil,,,,South America,Geophysical,1990-1999
+100,Bulgaria,1,1,0,Europe,Geophysical,1990-1999
+108,Burundi,,,,Africa,Geophysical,1990-1999
+132,Cabo Verde,1,0,6306,Africa,Geophysical,1990-1999
+120,Cameroon,1,0,3010,Africa,Geophysical,1990-1999
+152,Chile,4,17,118481,South America,Geophysical,1990-1999
+156,China,34,762,11851924,Asia,Geophysical,1990-1999
+170,Colombia,10,1612,1269540,South America,Geophysical,1990-1999
+174,Comoros,1,0,200,Africa,Geophysical,1990-1999
+188,Costa Rica,8,51,25868,North America,Geophysical,1990-1999
+191,Croatia,1,0,2000,Europe,Geophysical,1990-1999
+192,Cuba,1,0,5869,North America,Geophysical,1990-1999
+196,Cyprus,1,2,1865,Asia,Geophysical,1990-1999
+203,Czech Republic,,,,Europe,Geophysical,1990-1999
+180,Democratic Republic of the Congo,1,9,311,Africa,Geophysical,1990-1999
+212,Dominica,,,,North America,Geophysical,1990-1999
+214,Dominican Republic,,,,North America,Geophysical,1990-1999
+218,Ecuador,6,37,64345,South America,Geophysical,1990-1999
+818,Egypt,3,596,93018,Africa,Geophysical,1990-1999
+222,El Salvador,,,,North America,Geophysical,1990-1999
+231,Ethiopia,1,13,0,Africa,Geophysical,1990-1999
+242,Fiji,2,0,0,Oceania,Geophysical,1990-1999
+246,Finland,,,,Europe,Geophysical,1990-1999
+250,France,,,,Europe,Geophysical,1990-1999
+254,French Guiana,,,,South America,Geophysical,1990-1999
+266,Gabon,,,,Africa,Geophysical,1990-1999
+268,Georgia,2,9,3750,Asia,Geophysical,1990-1999
+276,Germany,1,1,1525,Europe,Geophysical,1990-1999
+300,Greece,8,197,147781,Europe,Geophysical,1990-1999
+312,Guadeloupe,,,,North America,Geophysical,1990-1999
+316,Guam,1,0,71,Oceania,Geophysical,1990-1999
+320,Guatemala,6,39,30513,North America,Geophysical,1990-1999
+332,Haiti,,,,North America,Geophysical,1990-1999
+340,Honduras,,,,North America,Geophysical,1990-1999
+348,Hungary,,,,Europe,Geophysical,1990-1999
+352,Iceland,1,0,0,Europe,Geophysical,1990-1999
+356,India,5,11391,719302,Asia,Geophysical,1990-1999
+360,Indonesia,30,3454,579442,Asia,Geophysical,1990-1999
+364,Iran,20,42875,999174,Asia,Geophysical,1990-1999
+368,Iraq,1,20,500,Asia,Geophysical,1990-1999
+372,Ireland,,,,Europe,Geophysical,1990-1999
+380,Italy,5,35,48721,Europe,Geophysical,1990-1999
+392,Japan,10,5589,617831,Asia,Geophysical,1990-1999
+398,Kazakhstan,,,,Asia,Geophysical,1990-1999
+404,Kenya,1,0,0,Africa,Geophysical,1990-1999
+417,Kyrgyzstan,3,58,138036,Asia,Geophysical,1990-1999
+454,Malawi,,,,Africa,Geophysical,1990-1999
+458,Malaysia,1,72,0,Asia,Geophysical,1990-1999
+462,Maldives,,,,Asia,Geophysical,1990-1999
+474,Martinique,,,,North America,Geophysical,1990-1999
+484,Mexico,14,131,299158,North America,Geophysical,1990-1999
+500,Montserrat,3,32,13000,North America,Geophysical,1990-1999
+504,Morocco,,,,Africa,Geophysical,1990-1999
+508,Mozambique,,,,Africa,Geophysical,1990-1999
+104,Myanmar,2,0,160,Asia,Geophysical,1990-1999
+524,Nepal,1,0,285,Asia,Geophysical,1990-1999
+528,Netherlands,1,0,20,Europe,Geophysical,1990-1999
+554,New Zealand,1,0,70,Oceania,Geophysical,1990-1999
+558,Nicaragua,7,180,324187,North America,Geophysical,1990-1999
+807,North Macedonia,,,,Europe,Geophysical,1990-1999
+580,Northern Mariana Islands,,,,Oceania,Geophysical,1990-1999
+578,Norway,,,,Europe,Geophysical,1990-1999
+512,Oman,,,,Asia,Geophysical,1990-1999
+586,Pakistan,8,413,217901,Asia,Geophysical,1990-1999
+591,Panama,2,30,20096,North America,Geophysical,1990-1999
+598,Papua New Guinea,7,2244,183898,Oceania,Geophysical,1990-1999
+604,Peru,9,292,237082,South America,Geophysical,1990-1999
+608,Philippines,13,3223,3114298,Asia,Geophysical,1990-1999
+642,Romania,3,9,6550,Europe,Geophysical,1990-1999
+643,Russia,4,2001,14352,Europe,Geophysical,1990-1999
+646,Rwanda,,,,Africa,Geophysical,1990-1999
+662,Saint Lucia,,,,North America,Geophysical,1990-1999
+882,Samoa,,,,Oceania,Geophysical,1990-1999
+682,Saudi Arabia,,,,Asia,Geophysical,1990-1999
+688,Serbia,,,,Europe,Geophysical,1990-1999
+690,Seychelles,,,,Africa,Geophysical,1990-1999
+705,Slovenia,1,0,700,Europe,Geophysical,1990-1999
+90,Solomon Islands,,,,Oceania,Geophysical,1990-1999
+706,Somalia,,,,Africa,Geophysical,1990-1999
+710,South Africa,2,25,52,Africa,Geophysical,1990-1999
+410,South Korea,,,,Asia,Geophysical,1990-1999
+724,Spain,1,0,20,Europe,Geophysical,1990-1999
+144,Sri Lanka,,,,Asia,Geophysical,1990-1999
+729,Sudan,2,3,8015,Africa,Geophysical,1990-1999
+740,Suriname,,,,South America,Geophysical,1990-1999
+756,Switzerland,,,,Europe,Geophysical,1990-1999
+762,Tajikistan,1,12,0,Asia,Geophysical,1990-1999
+834,Tanzania,,,,Africa,Geophysical,1990-1999
+764,Thailand,1,0,0,Asia,Geophysical,1990-1999
+626,Timor-Leste,,,,Asia,Geophysical,1990-1999
+776,Tonga,,,,Oceania,Geophysical,1990-1999
+780,Trinidad and Tobago,2,0,217,North America,Geophysical,1990-1999
+792,Turkey,13,19137,3712263,Europe,Geophysical,1990-1999
+795,Turkmenistan,,,,Asia,Geophysical,1990-1999
+800,Uganda,3,7,50000,Africa,Geophysical,1990-1999
+826,UK,1,0,0,Europe,Geophysical,1990-1999
+784,United Arab Emirates,,,,Asia,Geophysical,1990-1999
+840,USA,9,65,30901,North America,Geophysical,1990-1999
+860,Uzbekistan,2,10,50400,Asia,Geophysical,1990-1999
+548,Vanuatu,6,112,14102,Oceania,Geophysical,1990-1999
+862,Venezuela,1,80,4183,South America,Geophysical,1990-1999
+876,Wallis and Futuna,1,5,20,Oceania,Geophysical,1990-1999
+887,Yemen,1,10,40039,Asia,Geophysical,1990-1999
+887,Yemen,,,,Asia,Geophysical,1990-1999
+4,Afghanistan,17,2729,183479,Asia,Hydrological,1990-1999
+8,Albania,4,15,46500,Europe,Hydrological,1990-1999
+12,Algeria,8,118,37973,Africa,Hydrological,1990-1999
+16,American Samoa,,,,Oceania,Hydrological,1990-1999
+24,Angola,,,,Africa,Hydrological,1990-1999
+32,Argentina,10,85,465074,South America,Hydrological,1990-1999
+51,Armenia,2,4,7144,Asia,Hydrological,1990-1999
+36,Australia,14,66,55432,Oceania,Hydrological,1990-1999
+40,Austria,6,63,10000,Europe,Hydrological,1990-1999
+31,Azerbaijan,4,16,1733800,Asia,Hydrological,1990-1999
+44,Bahamas,,,,North America,Hydrological,1990-1999
+50,Bangladesh,28,2944,58165663,Asia,Hydrological,1990-1999
+112,Belarus,3,2,42000,Europe,Hydrological,1990-1999
+56,Belgium,4,1,875,Europe,Hydrological,1990-1999
+84,Belize,2,0,2600,North America,Hydrological,1990-1999
+204,Benin,7,37,834196,Africa,Hydrological,1990-1999
+64,Bhutan,1,22,600,Asia,Hydrological,1990-1999
+68,Bolivia,9,209,397273,South America,Hydrological,1990-1999
+70,Bosnia and Herzegovina,,,,Europe,Hydrological,1990-1999
+72,Botswana,1,20,5500,Africa,Hydrological,1990-1999
+76,Brazil,28,764,327567,South America,Hydrological,1990-1999
+100,Bulgaria,1,0,200,Europe,Hydrological,1990-1999
+854,Burkina Faso,2,28,68060,Africa,Hydrological,1990-1999
+108,Burundi,,,,Africa,Hydrological,1990-1999
+132,Cabo Verde,,,,Africa,Hydrological,1990-1999
+116,Cambodia,5,672,2889379,Asia,Hydrological,1990-1999
+120,Cameroon,3,32,1200,Africa,Hydrological,1990-1999
+124,Canada,6,25,49900,North America,Hydrological,1990-1999
+140,Central African Republic,5,7,76533,Africa,Hydrological,1990-1999
+148,Chad,4,41,255206,Africa,Hydrological,1990-1999
+152,Chile,5,300,165387,South America,Hydrological,1990-1999
+156,China,58,19173,1003620234,Asia,Hydrological,1990-1999
+170,Colombia,25,532,556175,South America,Hydrological,1990-1999
+174,Comoros,,,,Africa,Hydrological,1990-1999
+188,Costa Rica,5,27,256021,North America,Hydrological,1990-1999
+384,Côte d’Ivoire,1,28,0,Africa,Hydrological,1990-1999
+191,Croatia,,,,Europe,Hydrological,1990-1999
+192,Cuba,10,65,709773,North America,Hydrological,1990-1999
+203,Czech Republic,3,36,102167,Europe,Hydrological,1990-1999
+180,Democratic Republic of the Congo,4,64,141056,Africa,Hydrological,1990-1999
+262,Djibouti,2,145,140000,Africa,Hydrological,1990-1999
+214,Dominican Republic,4,43,21000,North America,Hydrological,1990-1999
+218,Ecuador,6,727,329072,South America,Hydrological,1990-1999
+818,Egypt,5,624,164128,Africa,Hydrological,1990-1999
+222,El Salvador,4,39,14950,North America,Hydrological,1990-1999
+232,Eritrea,,,,Africa,Hydrological,1990-1999
+748,Eswatini,,,,Africa,Hydrological,1990-1999
+231,Ethiopia,16,469,848995,Africa,Hydrological,1990-1999
+242,Fiji,,,,Oceania,Hydrological,1990-1999
+246,Finland,,,,Europe,Hydrological,1990-1999
+250,France,13,94,6176,Europe,Hydrological,1990-1999
+254,French Guiana,1,0,70000,South America,Hydrological,1990-1999
+258,French Polynesia,2,13,511,Oceania,Hydrological,1990-1999
+266,Gabon,,,,Africa,Hydrological,1990-1999
+270,Gambia,2,53,36000,Africa,Hydrological,1990-1999
+268,Georgia,4,8,800,Asia,Hydrological,1990-1999
+276,Germany,7,19,205200,Europe,Hydrological,1990-1999
+288,Ghana,3,202,3024602,Africa,Hydrological,1990-1999
+300,Greece,3,26,1900,Europe,Hydrological,1990-1999
+320,Guatemala,4,104,14066,North America,Hydrological,1990-1999
+324,Guinea,1,0,6066,Africa,Hydrological,1990-1999
+624,Guinea-Bissau,,,,Africa,Hydrological,1990-1999
+328,Guyana,1,0,38000,South America,Hydrological,1990-1999
+332,Haiti,4,44,5090,North America,Hydrological,1990-1999
+340,Honduras,8,624,748948,North America,Hydrological,1990-1999
+344,Hong Kong,4,87,5710,Asia,Hydrological,1990-1999
+348,Hungary,4,8,133695,Europe,Hydrological,1990-1999
+352,Iceland,2,34,83,Europe,Hydrological,1990-1999
+356,India,58,14454,280725576,Asia,Hydrological,1990-1999
+360,Indonesia,30,1013,2360554,Asia,Hydrological,1990-1999
+364,Iran,30,1319,937417,Asia,Hydrological,1990-1999
+368,Iraq,,,,Asia,Hydrological,1990-1999
+372,Ireland,1,3,3500,Europe,Hydrological,1990-1999
+376,Israel,2,15,1000,Asia,Hydrological,1990-1999
+380,Italy,8,248,22582,Europe,Hydrological,1990-1999
+388,Jamaica,2,24,555712,North America,Hydrological,1990-1999
+392,Japan,11,221,65778,Asia,Hydrological,1990-1999
+400,Jordan,2,10,18000,Asia,Hydrological,1990-1999
+398,Kazakhstan,1,10,30000,Asia,Hydrological,1990-1999
+404,Kenya,4,170,901200,Africa,Hydrological,1990-1999
+296,Kiribati,,,,Oceania,Hydrological,1990-1999
+414,Kuwait,1,2,200,Asia,Hydrological,1990-1999
+417,Kyrgyzstan,3,163,66228,Asia,Hydrological,1990-1999
+418,Laos,6,40,1533550,Asia,Hydrological,1990-1999
+422,Lebanon,,,,Asia,Hydrological,1990-1999
+426,Lesotho,1,22,0,Africa,Hydrological,1990-1999
+430,Liberia,1,10,5000,Africa,Hydrological,1990-1999
+434,Libya,1,0,0,Africa,Hydrological,1990-1999
+440,Lithuania,,,,Europe,Hydrological,1990-1999
+442,Luxembourg,1,0,0,Europe,Hydrological,1990-1999
+450,Madagascar,1,0,20000,Africa,Hydrological,1990-1999
+454,Malawi,6,477,568300,Africa,Hydrological,1990-1999
+458,Malaysia,6,101,30203,Asia,Hydrological,1990-1999
+462,Maldives,,,,Asia,Hydrological,1990-1999
+466,Mali,3,5,8634,Africa,Hydrological,1990-1999
+584,Marshall Islands,,,,Oceania,Hydrological,1990-1999
+478,Mauritania,3,0,24400,Africa,Hydrological,1990-1999
+480,Mauritius,,,,Africa,Hydrological,1990-1999
+484,Mexico,14,1243,980670,North America,Hydrological,1990-1999
+583,Micronesia,,,,Oceania,Hydrological,1990-1999
+498,Moldova,3,56,28957,Europe,Hydrological,1990-1999
+496,Mongolia,2,46,0,Asia,Hydrological,1990-1999
+499,Montenegro,,,,Europe,Hydrological,1990-1999
+504,Morocco,5,876,98000,Africa,Hydrological,1990-1999
+508,Mozambique,3,145,472500,Africa,Hydrological,1990-1999
+104,Myanmar,5,169,583964,Asia,Hydrological,1990-1999
+516,Namibia,,,,Africa,Hydrological,1990-1999
+524,Nepal,13,2765,810434,Asia,Hydrological,1990-1999
+528,Netherlands,3,1,15000,Europe,Hydrological,1990-1999
+554,New Zealand,7,0,1155,Oceania,Hydrological,1990-1999
+558,Nicaragua,2,15,213516,North America,Hydrological,1990-1999
+562,Niger,4,74,106387,Africa,Hydrological,1990-1999
+566,Nigeria,6,134,804000,Africa,Hydrological,1990-1999
+408,North Korea,6,276,9551307,Asia,Hydrological,1990-1999
+807,North Macedonia,1,0,1500,Europe,Hydrological,1990-1999
+578,Norway,1,1,4000,Europe,Hydrological,1990-1999
+512,Oman,,,,Asia,Hydrological,1990-1999
+586,Pakistan,20,4375,18152120,Asia,Hydrological,1990-1999
+275,Palestine,,,,Asia,Hydrological,1990-1999
+591,Panama,4,14,21456,North America,Hydrological,1990-1999
+598,Papua New Guinea,5,240,187008,Oceania,Hydrological,1990-1999
+600,Paraguay,6,55,430575,South America,Hydrological,1990-1999
+604,Peru,15,738,877737,South America,Hydrological,1990-1999
+608,Philippines,37,1291,5436155,Asia,Hydrological,1990-1999
+616,Poland,2,64,225700,Europe,Hydrological,1990-1999
+620,Portugal,2,10,3050,Europe,Hydrological,1990-1999
+630,Puerto Rico,1,18,600,North America,Hydrological,1990-1999
+634,Qatar,,,,Asia,Hydrological,1990-1999
+178,Republic of the Congo,3,2,78500,Africa,Hydrological,1990-1999
+642,Romania,8,197,163683,Europe,Hydrological,1990-1999
+643,Russia,21,520,1240236,Europe,Hydrological,1990-1999
+646,Rwanda,,,,Africa,Hydrological,1990-1999
+662,Saint Lucia,1,0,175,North America,Hydrological,1990-1999
+670,Saint Vincent and the Grenadines,1,3,200,North America,Hydrological,1990-1999
+882,Samoa,,,,Oceania,Hydrological,1990-1999
+682,Saudi Arabia,,,,Asia,Hydrological,1990-1999
+686,Senegal,3,0,322500,Africa,Hydrological,1990-1999
+688,Serbia,,,,Europe,Hydrological,1990-1999
+690,Seychelles,1,5,1237,Africa,Hydrological,1990-1999
+694,Sierra Leone,1,12,200000,Africa,Hydrological,1990-1999
+703,Slovakia,3,56,47815,Europe,Hydrological,1990-1999
+705,Slovenia,,,,Europe,Hydrological,1990-1999
+90,Solomon Islands,,,,Oceania,Hydrological,1990-1999
+706,Somalia,5,2434,1240600,Africa,Hydrological,1990-1999
+710,South Africa,9,314,40637,Africa,Hydrological,1990-1999
+410,South Korea,10,783,404450,Asia,Hydrological,1990-1999
+728,South Sudan,,,,Africa,Hydrological,1990-1999
+724,Spain,4,100,4529,Europe,Hydrological,1990-1999
+144,Sri Lanka,17,170,3325866,Asia,Hydrological,1990-1999
+729,Sudan,11,330,1509206,Africa,Hydrological,1990-1999
+740,Suriname,,,,South America,Hydrological,1990-1999
+756,Switzerland,3,33,0,Europe,Hydrological,1990-1999
+760,Syria,,,,Asia,Hydrological,1990-1999
+762,Tajikistan,11,1723,376470,Asia,Hydrological,1990-1999
+834,Tanzania,11,421,408273,Africa,Hydrological,1990-1999
+764,Thailand,18,527,10651922,Asia,Hydrological,1990-1999
+626,Timor-Leste,,,,Asia,Hydrological,1990-1999
+768,Togo,5,3,291905,Africa,Hydrological,1990-1999
+780,Trinidad and Tobago,2,5,210,North America,Hydrological,1990-1999
+788,Tunisia,1,37,152000,Africa,Hydrological,1990-1999
+792,Turkey,10,475,1564911,Europe,Hydrological,1990-1999
+795,Turkmenistan,1,0,420,Asia,Hydrological,1990-1999
+800,Uganda,3,120,168700,Africa,Hydrological,1990-1999
+826,UK,8,17,1930,Europe,Hydrological,1990-1999
+804,Ukraine,6,27,2059570,Europe,Hydrological,1990-1999
+784,United Arab Emirates,,,,Asia,Hydrological,1990-1999
+858,Uruguay,3,1,15500,South America,Hydrological,1990-1999
+840,USA,52,382,648334,North America,Hydrological,1990-1999
+860,Uzbekistan,1,24,0,Asia,Hydrological,1990-1999
+548,Vanuatu,,,,Oceania,Hydrological,1990-1999
+862,Venezuela,8,30052,613521,South America,Hydrological,1990-1999
+704,Vietnam,17,2237,7442332,Asia,Hydrological,1990-1999
+887,Yemen,7,446,317700,Asia,Hydrological,1990-1999
+894,Zambia,1,0,1300000,Africa,Hydrological,1990-1999
+716,Zimbabwe,1,36,0,Africa,Hydrological,1990-1999
+4,Afghanistan,3,234,200,Asia,Meteorological,1990-1999
+8,Albania,,,,Europe,Meteorological,1990-1999
+12,Algeria,,,,Africa,Meteorological,1990-1999
+16,American Samoa,,,,Oceania,Meteorological,1990-1999
+660,Anguilla,1,0,150,North America,Meteorological,1990-1999
+28,Antigua and Barbuda,5,6,11684,North America,Meteorological,1990-1999
+32,Argentina,4,21,43000,South America,Meteorological,1990-1999
+51,Armenia,,,,Asia,Meteorological,1990-1999
+36,Australia,30,74,8539068,Oceania,Meteorological,1990-1999
+40,Austria,8,3,0,Europe,Meteorological,1990-1999
+31,Azerbaijan,,,,Asia,Meteorological,1990-1999
+44,Bahamas,4,5,1700,North America,Meteorological,1990-1999
+50,Bangladesh,52,143395,23691965,Asia,Meteorological,1990-1999
+52,Barbados,1,0,0,North America,Meteorological,1990-1999
+112,Belarus,1,5,21390,Europe,Meteorological,1990-1999
+56,Belgium,10,24,1705,Europe,Meteorological,1990-1999
+84,Belize,2,9,60000,North America,Meteorological,1990-1999
+204,Benin,,,,Africa,Meteorological,1990-1999
+60,Bermuda,,,,North America,Meteorological,1990-1999
+64,Bhutan,1,17,65000,Asia,Meteorological,1990-1999
+68,Bolivia,,,,South America,Meteorological,1990-1999
+70,Bosnia and Herzegovina,1,0,1090,Europe,Meteorological,1990-1999
+72,Botswana,,,,Africa,Meteorological,1990-1999
+76,Brazil,4,3,2676,South America,Meteorological,1990-1999
+92,British Virgin Islands,2,0,3,North America,Meteorological,1990-1999
+100,Bulgaria,3,3,6173,Europe,Meteorological,1990-1999
+108,Burundi,1,0,30810,Africa,Meteorological,1990-1999
+132,Cabo Verde,,,,Africa,Meteorological,1990-1999
+116,Cambodia,1,25,0,Asia,Meteorological,1990-1999
+124,Canada,10,38,7504,North America,Meteorological,1990-1999
+136,Cayman Islands,,,,North America,Meteorological,1990-1999
+140,Central African Republic,,,,Africa,Meteorological,1990-1999
+148,Chad,,,,Africa,Meteorological,1990-1999
+152,Chile,5,6,50250,South America,Meteorological,1990-1999
+156,China,77,5780,102722968,Asia,Meteorological,1990-1999
+170,Colombia,1,2,0,South America,Meteorological,1990-1999
+174,Comoros,,,,Africa,Meteorological,1990-1999
+184,Cook Islands,2,20,900,Oceania,Meteorological,1990-1999
+188,Costa Rica,4,62,740762,North America,Meteorological,1990-1999
+191,Croatia,,,,Europe,Meteorological,1990-1999
+192,Cuba,7,19,999162,North America,Meteorological,1990-1999
+196,Cyprus,1,52,100,Asia,Meteorological,1990-1999
+203,Czech Republic,,,,Europe,Meteorological,1990-1999
+180,Democratic Republic of the Congo,,,,Africa,Meteorological,1990-1999
+208,Denmark,4,8,0,Europe,Meteorological,1990-1999
+262,Djibouti,1,0,775,Africa,Meteorological,1990-1999
+212,Dominica,3,2,5716,North America,Meteorological,1990-1999
+214,Dominican Republic,4,382,1003425,North America,Meteorological,1990-1999
+818,Egypt,3,72,60,Africa,Meteorological,1990-1999
+222,El Salvador,3,491,86000,North America,Meteorological,1990-1999
+232,Eritrea,1,3,15675,Africa,Meteorological,1990-1999
+233,Estonia,,,,Europe,Meteorological,1990-1999
+748,Eswatini,,,,Africa,Meteorological,1990-1999
+242,Fiji,5,59,173275,Oceania,Meteorological,1990-1999
+246,Finland,2,0,0,Europe,Meteorological,1990-1999
+250,France,22,273,3519441,Europe,Meteorological,1990-1999
+258,French Polynesia,,,,Oceania,Meteorological,1990-1999
+266,Gabon,,,,Africa,Meteorological,1990-1999
+270,Gambia,,,,Africa,Meteorological,1990-1999
+268,Georgia,,,,Asia,Meteorological,1990-1999
+276,Germany,18,137,30015,Europe,Meteorological,1990-1999
+288,Ghana,,,,Africa,Meteorological,1990-1999
+300,Greece,2,8,0,Europe,Meteorological,1990-1999
+308,Grenada,2,0,1210,North America,Meteorological,1990-1999
+312,Guadeloupe,4,4,899,North America,Meteorological,1990-1999
+316,Guam,2,1,11962,Oceania,Meteorological,1990-1999
+320,Guatemala,2,384,105700,North America,Meteorological,1990-1999
+324,Guinea,,,,Africa,Meteorological,1990-1999
+624,Guinea-Bissau,1,0,1722,Africa,Meteorological,1990-1999
+332,Haiti,5,1378,1599144,North America,Meteorological,1990-1999
+340,Honduras,4,14619,2112022,North America,Meteorological,1990-1999
+344,Hong Kong,11,34,2689,Asia,Meteorological,1990-1999
+348,Hungary,1,40,0,Europe,Meteorological,1990-1999
+352,Iceland,,,,Europe,Meteorological,1990-1999
+356,India,34,22130,32346701,Asia,Meteorological,1990-1999
+360,Indonesia,,,,Asia,Meteorological,1990-1999
+364,Iran,4,31,3785,Asia,Meteorological,1990-1999
+372,Ireland,8,14,0,Europe,Meteorological,1990-1999
+376,Israel,2,5,0,Asia,Meteorological,1990-1999
+380,Italy,5,49,1100,Europe,Meteorological,1990-1999
+388,Jamaica,2,4,800,North America,Meteorological,1990-1999
+392,Japan,25,351,420370,Asia,Meteorological,1990-1999
+400,Jordan,2,17,0,Asia,Meteorological,1990-1999
+398,Kazakhstan,2,112,600000,Asia,Meteorological,1990-1999
+296,Kiribati,,,,Oceania,Meteorological,1990-1999
+417,Kyrgyzstan,,,,Asia,Meteorological,1990-1999
+418,Laos,4,56,1307312,Asia,Meteorological,1990-1999
+428,Latvia,1,6,0,Europe,Meteorological,1990-1999
+422,Lebanon,1,25,104075,Asia,Meteorological,1990-1999
+426,Lesotho,2,0,250,Africa,Meteorological,1990-1999
+430,Liberia,2,0,1002000,Africa,Meteorological,1990-1999
+440,Lithuania,3,40,780000,Europe,Meteorological,1990-1999
+442,Luxembourg,7,0,0,Europe,Meteorological,1990-1999
+446,Macao,4,0,3986,Asia,Meteorological,1990-1999
+450,Madagascar,7,431,1490051,Africa,Meteorological,1990-1999
+454,Malawi,,,,Africa,Meteorological,1990-1999
+458,Malaysia,2,272,6291,Asia,Meteorological,1990-1999
+462,Maldives,1,0,23849,Asia,Meteorological,1990-1999
+584,Marshall Islands,1,0,6000,Oceania,Meteorological,1990-1999
+474,Martinique,5,10,5110,North America,Meteorological,1990-1999
+478,Mauritania,2,5,477,Africa,Meteorological,1990-1999
+480,Mauritius,4,5,10800,Africa,Meteorological,1990-1999
+484,Mexico,33,1700,1013845,North America,Meteorological,1990-1999
+583,Micronesia,,,,Oceania,Meteorological,1990-1999
+498,Moldova,1,3,25580,Europe,Meteorological,1990-1999
+496,Mongolia,3,49,100000,Asia,Meteorological,1990-1999
+499,Montenegro,,,,Europe,Meteorological,1990-1999
+500,Montserrat,2,0,0,North America,Meteorological,1990-1999
+504,Morocco,1,14,0,Africa,Meteorological,1990-1999
+508,Mozambique,3,251,2702000,Africa,Meteorological,1990-1999
+104,Myanmar,1,17,64970,Asia,Meteorological,1990-1999
+524,Nepal,2,26,184,Asia,Meteorological,1990-1999
+528,Netherlands,10,23,250100,Europe,Meteorological,1990-1999
+540,New Caledonia,1,0,0,Oceania,Meteorological,1990-1999
+554,New Zealand,4,4,2140,Oceania,Meteorological,1990-1999
+558,Nicaragua,5,3451,1017037,North America,Meteorological,1990-1999
+562,Niger,,,,Africa,Meteorological,1990-1999
+566,Nigeria,2,118,0,Africa,Meteorological,1990-1999
+570,Niue,1,0,200,Oceania,Meteorological,1990-1999
+408,North Korea,2,6,2500,Asia,Meteorological,1990-1999
+807,North Macedonia,,,,Europe,Meteorological,1990-1999
+580,Northern Mariana Islands,,,,Oceania,Meteorological,1990-1999
+578,Norway,4,0,0,Europe,Meteorological,1990-1999
+512,Oman,,,,Asia,Meteorological,1990-1999
+586,Pakistan,13,1640,536621,Asia,Meteorological,1990-1999
+585,Palau,,,,Oceania,Meteorological,1990-1999
+275,Palestine,,,,Asia,Meteorological,1990-1999
+591,Panama,2,15,7550,North America,Meteorological,1990-1999
+598,Papua New Guinea,2,47,47540,Oceania,Meteorological,1990-1999
+600,Paraguay,1,33,77,South America,Meteorological,1990-1999
+604,Peru,2,543,580730,South America,Meteorological,1990-1999
+608,Philippines,56,9717,26901785,Asia,Meteorological,1990-1999
+616,Poland,6,272,0,Europe,Meteorological,1990-1999
+620,Portugal,1,29,200,Europe,Meteorological,1990-1999
+630,Puerto Rico,5,20,155315,North America,Meteorological,1990-1999
+638,Réunion,1,14,0,Africa,Meteorological,1990-1999
+642,Romania,8,111,7566,Europe,Meteorological,1990-1999
+643,Russia,15,741,728659,Europe,Meteorological,1990-1999
+646,Rwanda,,,,Africa,Meteorological,1990-1999
+652,Saint Barthélemy,,,,North America,Meteorological,1990-1999
+654,Saint Helena,,,,Africa,Meteorological,1990-1999
+659,Saint Kitts and Nevis,4,5,12980,North America,Meteorological,1990-1999
+662,Saint Lucia,2,4,950,North America,Meteorological,1990-1999
+663,Saint Martin,,,,North America,Meteorological,1990-1999
+670,Saint Vincent and the Grenadines,1,0,100,North America,Meteorological,1990-1999
+882,Samoa,2,21,283000,Oceania,Meteorological,1990-1999
+682,Saudi Arabia,,,,Asia,Meteorological,1990-1999
+686,Senegal,2,187,95853,Africa,Meteorological,1990-1999
+688,Serbia,,,,Europe,Meteorological,1990-1999
+690,Seychelles,,,,Africa,Meteorological,1990-1999
+694,Sierra Leone,1,13,3,Africa,Meteorological,1990-1999
+534,Sint Maarten,,,,North America,Meteorological,1990-1999
+703,Slovakia,,,,Europe,Meteorological,1990-1999
+705,Slovenia,,,,Europe,Meteorological,1990-1999
+90,Solomon Islands,2,4,88500,Oceania,Meteorological,1990-1999
+706,Somalia,1,30,0,Africa,Meteorological,1990-1999
+710,South Africa,7,85,20940,Africa,Meteorological,1990-1999
+410,South Korea,12,376,39954,Asia,Meteorological,1990-1999
+724,Spain,8,78,420,Europe,Meteorological,1990-1999
+144,Sri Lanka,,,,Asia,Meteorological,1990-1999
+729,Sudan,,,,Africa,Meteorological,1990-1999
+752,Sweden,3,3,0,Europe,Meteorological,1990-1999
+756,Switzerland,10,19,0,Europe,Meteorological,1990-1999
+760,Syria,,,,Asia,Meteorological,1990-1999
+762,Tajikistan,1,0,1500,Asia,Meteorological,1990-1999
+834,Tanzania,1,4,2500,Africa,Meteorological,1990-1999
+764,Thailand,15,337,2903380,Asia,Meteorological,1990-1999
+626,Timor-Leste,,,,Asia,Meteorological,1990-1999
+772,Tokelau,1,0,102,Oceania,Meteorological,1990-1999
+776,Tonga,4,1,9674,Oceania,Meteorological,1990-1999
+780,Trinidad and Tobago,2,0,1000,North America,Meteorological,1990-1999
+792,Turkey,3,31,8003,Europe,Meteorological,1990-1999
+796,Turks and Caicos,1,0,0,North America,Meteorological,1990-1999
+798,Tuvalu,2,0,850,Oceania,Meteorological,1990-1999
+800,Uganda,,,,Africa,Meteorological,1990-1999
+826,UK,17,205,265200,Europe,Meteorological,1990-1999
+804,Ukraine,2,11,1000,Europe,Meteorological,1990-1999
+784,United Arab Emirates,,,,Asia,Meteorological,1990-1999
+850,United States Virgin Islands,4,10,10000,North America,Meteorological,1990-1999
+858,Uruguay,3,2,3500,South America,Meteorological,1990-1999
+840,USA,173,3005,3638747,North America,Meteorological,1990-1999
+548,Vanuatu,5,38,15565,Oceania,Meteorological,1990-1999
+862,Venezuela,1,100,5900,South America,Meteorological,1990-1999
+704,Vietnam,25,5541,5405384,Asia,Meteorological,1990-1999
+876,Wallis and Futuna,,,,Oceania,Meteorological,1990-1999
+887,Yemen,,,,Asia,Meteorological,1990-1999
+716,Zimbabwe,,,,Africa,Meteorological,1990-1999
+254,French Guiana,,,,South America,Meteorological,1990-1999
+740,Suriname,,,,South America,Meteorological,1990-1999
+4,Afghanistan,3,37,4760000,Asia,Climatological,2000-2009
+8,Albania,1,0,75,Europe,Climatological,2000-2009
+12,Algeria,1,8,0,Africa,Climatological,2000-2009
+24,Angola,2,58,25000,Africa,Climatological,2000-2009
+660,Anguilla,,,,North America,Climatological,2000-2009
+28,Antigua and Barbuda,,,,North America,Climatological,2000-2009
+32,Argentina,4,8,0,South America,Climatological,2000-2009
+51,Armenia,1,0,297000,Asia,Climatological,2000-2009
+36,Australia,12,202,17809,Oceania,Climatological,2000-2009
+40,Austria,,,,Europe,Climatological,2000-2009
+31,Azerbaijan,1,0,0,Asia,Climatological,2000-2009
+50,Bangladesh,1,0,0,Asia,Climatological,2000-2009
+52,Barbados,,,,North America,Climatological,2000-2009
+112,Belarus,,,,Europe,Climatological,2000-2009
+56,Belgium,,,,Europe,Climatological,2000-2009
+204,Benin,,,,Africa,Climatological,2000-2009
+64,Bhutan,,,,Asia,Climatological,2000-2009
+68,Bolivia,5,0,105500,South America,Climatological,2000-2009
+70,Bosnia and Herzegovina,2,0,62575,Europe,Climatological,2000-2009
+72,Botswana,,,,Africa,Climatological,2000-2009
+76,Brazil,5,0,2000000,South America,Climatological,2000-2009
+96,Brunei,,,,Asia,Climatological,2000-2009
+100,Bulgaria,5,10,176,Europe,Climatological,2000-2009
+854,Burkina Faso,1,0,0,Africa,Climatological,2000-2009
+108,Burundi,4,120,2412500,Africa,Climatological,2000-2009
+132,Cabo Verde,1,0,30000,Africa,Climatological,2000-2009
+116,Cambodia,3,0,1550000,Asia,Climatological,2000-2009
+120,Cameroon,2,0,0,Africa,Climatological,2000-2009
+124,Canada,5,1,1800,North America,Climatological,2000-2009
+140,Central African Republic,1,1,750,Africa,Climatological,2000-2009
+148,Chad,2,0,3200000,Africa,Climatological,2000-2009
+152,Chile,2,0,285,South America,Climatological,2000-2009
+156,China,17,134,241524300,Asia,Climatological,2000-2009
+170,Colombia,1,0,0,South America,Climatological,2000-2009
+174,Comoros,,,,Africa,Climatological,2000-2009
+188,Costa Rica,,,,North America,Climatological,2000-2009
+384,Côte d’Ivoire,,,,Africa,Climatological,2000-2009
+191,Croatia,5,13,26,Europe,Climatological,2000-2009
+192,Cuba,2,0,0,North America,Climatological,2000-2009
+196,Cyprus,2,0,0,Asia,Climatological,2000-2009
+203,Czech Republic,,,,Europe,Climatological,2000-2009
+180,Democratic Republic of the Congo,1,0,125,Africa,Climatological,2000-2009
+208,Denmark,,,,Europe,Climatological,2000-2009
+262,Djibouti,4,0,632750,Africa,Climatological,2000-2009
+214,Dominican Republic,1,0,0,North America,Climatological,2000-2009
+218,Ecuador,1,0,107500,South America,Climatological,2000-2009
+818,Egypt,,,,Africa,Climatological,2000-2009
+222,El Salvador,2,0,400000,North America,Climatological,2000-2009
+232,Eritrea,1,0,1700000,Africa,Climatological,2000-2009
+748,Eswatini,3,2,1381500,Africa,Climatological,2000-2009
+231,Ethiopia,5,0,27800005,Africa,Climatological,2000-2009
+242,Fiji,,,,Oceania,Climatological,2000-2009
+246,Finland,,,,Europe,Climatological,2000-2009
+250,France,3,7,3004,Europe,Climatological,2000-2009
+254,French Guiana,,,,South America,Climatological,2000-2009
+266,Gabon,,,,Africa,Climatological,2000-2009
+270,Gambia,1,0,0,Africa,Climatological,2000-2009
+268,Georgia,1,0,696000,Asia,Climatological,2000-2009
+276,Germany,,,,Europe,Climatological,2000-2009
+288,Ghana,,,,Africa,Climatological,2000-2009
+300,Greece,6,77,6545,Europe,Climatological,2000-2009
+308,Grenada,,,,North America,Climatological,2000-2009
+320,Guatemala,3,41,2613596,North America,Climatological,2000-2009
+324,Guinea,1,0,777,Africa,Climatological,2000-2009
+624,Guinea-Bissau,2,0,132000,Africa,Climatological,2000-2009
+328,Guyana,,,,South America,Climatological,2000-2009
+332,Haiti,1,0,35000,North America,Climatological,2000-2009
+340,Honduras,6,0,460625,North America,Climatological,2000-2009
+344,Hong Kong,,,,Asia,Climatological,2000-2009
+348,Hungary,1,0,0,Europe,Climatological,2000-2009
+352,Iceland,,,,Europe,Climatological,2000-2009
+356,India,3,20,350000000,Asia,Climatological,2000-2009
+360,Indonesia,5,0,15400,Asia,Climatological,2000-2009
+364,Iran,1,0,0,Asia,Climatological,2000-2009
+368,Iraq,,,,Asia,Climatological,2000-2009
+372,Ireland,,,,Europe,Climatological,2000-2009
+376,Israel,,,,Asia,Climatological,2000-2009
+380,Italy,3,13,0,Europe,Climatological,2000-2009
+388,Jamaica,1,0,0,North America,Climatological,2000-2009
+392,Japan,1,0,222,Asia,Climatological,2000-2009
+400,Jordan,1,0,150000,Asia,Climatological,2000-2009
+398,Kazakhstan,,,,Asia,Climatological,2000-2009
+404,Kenya,3,111,9600000,Africa,Climatological,2000-2009
+296,Kiribati,,,,Oceania,Climatological,2000-2009
+417,Kyrgyzstan,1,0,2000000,Asia,Climatological,2000-2009
+418,Laos,,,,Asia,Climatological,2000-2009
+428,Latvia,,,,Europe,Climatological,2000-2009
+422,Lebanon,1,1,15,Asia,Climatological,2000-2009
+426,Lesotho,2,0,975000,Africa,Climatological,2000-2009
+430,Liberia,,,,Africa,Climatological,2000-2009
+440,Lithuania,1,0,0,Europe,Climatological,2000-2009
+450,Madagascar,4,0,1565290,Africa,Climatological,2000-2009
+454,Malawi,3,500,8449435,Africa,Climatological,2000-2009
+458,Malaysia,1,0,0,Asia,Climatological,2000-2009
+466,Mali,3,0,1025000,Africa,Climatological,2000-2009
+584,Marshall Islands,,,,Oceania,Climatological,2000-2009
+478,Mauritania,1,0,1000000,Africa,Climatological,2000-2009
+480,Mauritius,,,,Africa,Climatological,2000-2009
+484,Mexico,2,0,0,North America,Climatological,2000-2009
+583,Micronesia,,,,Oceania,Climatological,2000-2009
+498,Moldova,2,2,210394,Europe,Climatological,2000-2009
+496,Mongolia,1,0,450000,Asia,Climatological,2000-2009
+499,Montenegro,,,,Europe,Climatological,2000-2009
+504,Morocco,,,,Africa,Climatological,2000-2009
+508,Mozambique,7,67,3242523,Africa,Climatological,2000-2009
+104,Myanmar,,,,Asia,Climatological,2000-2009
+516,Namibia,2,0,345000,Africa,Climatological,2000-2009
+524,Nepal,2,0,503000,Asia,Climatological,2000-2009
+554,New Zealand,,,,Oceania,Climatological,2000-2009
+558,Nicaragua,3,0,204000,North America,Climatological,2000-2009
+562,Niger,3,0,14484558,Africa,Climatological,2000-2009
+566,Nigeria,,,,Africa,Climatological,2000-2009
+408,North Korea,,,,Asia,Climatological,2000-2009
+807,North Macedonia,2,1,1000000,Europe,Climatological,2000-2009
+578,Norway,,,,Europe,Climatological,2000-2009
+512,Oman,,,,Asia,Climatological,2000-2009
+586,Pakistan,,,,Asia,Climatological,2000-2009
+591,Panama,1,0,1436,North America,Climatological,2000-2009
+598,Papua New Guinea,,,,Oceania,Climatological,2000-2009
+600,Paraguay,4,12,395990,South America,Climatological,2000-2009
+604,Peru,3,0,21500,South America,Climatological,2000-2009
+608,Philippines,2,0,0,Asia,Climatological,2000-2009
+616,Poland,,,,Europe,Climatological,2000-2009
+620,Portugal,5,31,150136,Europe,Climatological,2000-2009
+630,Puerto Rico,,,,North America,Climatological,2000-2009
+178,Republic of the Congo,,,,Africa,Climatological,2000-2009
+642,Romania,1,0,0,Europe,Climatological,2000-2009
+643,Russia,13,9,1001120,Europe,Climatological,2000-2009
+646,Rwanda,1,0,1000000,Africa,Climatological,2000-2009
+662,Saint Lucia,,,,North America,Climatological,2000-2009
+670,Saint Vincent and the Grenadines,,,,North America,Climatological,2000-2009
+882,Samoa,,,,Oceania,Climatological,2000-2009
+678,Sao Tome and Principe,,,,Africa,Climatological,2000-2009
+682,Saudi Arabia,,,,Asia,Climatological,2000-2009
+686,Senegal,1,0,284000,Africa,Climatological,2000-2009
+694,Sierra Leone,,,,Africa,Climatological,2000-2009
+703,Slovakia,1,6,0,Europe,Climatological,2000-2009
+705,Slovenia,,,,Europe,Climatological,2000-2009
+90,Solomon Islands,,,,Oceania,Climatological,2000-2009
+706,Somalia,4,23,4700000,Africa,Climatological,2000-2009
+710,South Africa,7,94,15004375,Africa,Climatological,2000-2009
+410,South Korea,4,2,5150,Asia,Climatological,2000-2009
+728,South Sudan,1,0,4300000,Africa,Climatological,2000-2009
+724,Spain,6,29,1301,Europe,Climatological,2000-2009
+144,Sri Lanka,1,0,1000000,Asia,Climatological,2000-2009
+729,Sudan,1,0,2000000,Africa,Climatological,2000-2009
+740,Suriname,,,,South America,Climatological,2000-2009
+752,Sweden,,,,Europe,Climatological,2000-2009
+756,Switzerland,,,,Europe,Climatological,2000-2009
+760,Syria,1,0,1300000,Asia,Climatological,2000-2009
+762,Tajikistan,2,0,3800000,Asia,Climatological,2000-2009
+834,Tanzania,3,0,5854000,Africa,Climatological,2000-2009
+764,Thailand,4,0,15000000,Asia,Climatological,2000-2009
+626,Timor-Leste,1,0,0,Asia,Climatological,2000-2009
+768,Togo,,,,Africa,Climatological,2000-2009
+776,Tonga,,,,Oceania,Climatological,2000-2009
+780,Trinidad and Tobago,,,,North America,Climatological,2000-2009
+788,Tunisia,,,,Africa,Climatological,2000-2009
+792,Turkey,3,2,650,Europe,Climatological,2000-2009
+798,Tuvalu,,,,Oceania,Climatological,2000-2009
+800,Uganda,3,79,2355000,Africa,Climatological,2000-2009
+826,UK,,,,Europe,Climatological,2000-2009
+804,Ukraine,,,,Europe,Climatological,2000-2009
+784,United Arab Emirates,,,,Asia,Climatological,2000-2009
+858,Uruguay,,,,South America,Climatological,2000-2009
+840,USA,39,55,794556,North America,Climatological,2000-2009
+860,Uzbekistan,1,0,600000,Asia,Climatological,2000-2009
+862,Venezuela,1,0,0,South America,Climatological,2000-2009
+704,Vietnam,3,0,1710000,Asia,Climatological,2000-2009
+887,Yemen,,,,Asia,Climatological,2000-2009
+894,Zambia,1,0,1200000,Africa,Climatological,2000-2009
+716,Zimbabwe,2,0,8100000,Africa,Climatological,2000-2009
+4,Afghanistan,11,1236,107947,Asia,Geophysical,2000-2009
+8,Albania,1,0,150,Europe,Geophysical,2000-2009
+12,Algeria,5,2279,211095,Africa,Geophysical,2000-2009
+16,American Samoa,1,34,2500,Oceania,Geophysical,2000-2009
+32,Argentina,2,0,727,South America,Geophysical,2000-2009
+51,Armenia,,,,Asia,Geophysical,2000-2009
+36,Australia,,,,Oceania,Geophysical,2000-2009
+40,Austria,,,,Europe,Geophysical,2000-2009
+31,Azerbaijan,1,31,3294,Asia,Geophysical,2000-2009
+50,Bangladesh,3,4,3525,Asia,Geophysical,2000-2009
+52,Barbados,1,0,1,North America,Geophysical,2000-2009
+112,Belarus,,,,Europe,Geophysical,2000-2009
+56,Belgium,,,,Europe,Geophysical,2000-2009
+64,Bhutan,1,11,12,Asia,Geophysical,2000-2009
+68,Bolivia,,,,South America,Geophysical,2000-2009
+76,Brazil,1,1,286,South America,Geophysical,2000-2009
+100,Bulgaria,1,0,527,Europe,Geophysical,2000-2009
+108,Burundi,1,3,120,Africa,Geophysical,2000-2009
+132,Cabo Verde,,,,Africa,Geophysical,2000-2009
+120,Cameroon,,,,Africa,Geophysical,2000-2009
+152,Chile,4,23,60800,South America,Geophysical,2000-2009
+156,China,48,88002,54743850,Asia,Geophysical,2000-2009
+170,Colombia,13,42,53255,South America,Geophysical,2000-2009
+174,Comoros,3,1,284000,Africa,Geophysical,2000-2009
+188,Costa Rica,3,41,129033,North America,Geophysical,2000-2009
+191,Croatia,,,,Europe,Geophysical,2000-2009
+192,Cuba,,,,North America,Geophysical,2000-2009
+196,Cyprus,,,,Asia,Geophysical,2000-2009
+203,Czech Republic,,,,Europe,Geophysical,2000-2009
+180,Democratic Republic of the Congo,4,217,129260,Africa,Geophysical,2000-2009
+212,Dominica,1,0,100,North America,Geophysical,2000-2009
+214,Dominican Republic,1,3,2015,North America,Geophysical,2000-2009
+218,Ecuador,7,65,497683,South America,Geophysical,2000-2009
+818,Egypt,2,98,947,Africa,Geophysical,2000-2009
+222,El Salvador,5,1162,1609771,North America,Geophysical,2000-2009
+231,Ethiopia,2,5,11000,Africa,Geophysical,2000-2009
+242,Fiji,,,,Oceania,Geophysical,2000-2009
+246,Finland,,,,Europe,Geophysical,2000-2009
+250,France,,,,Europe,Geophysical,2000-2009
+254,French Guiana,,,,South America,Geophysical,2000-2009
+266,Gabon,,,,Africa,Geophysical,2000-2009
+268,Georgia,2,6,26462,Asia,Geophysical,2000-2009
+276,Germany,1,0,150,Europe,Geophysical,2000-2009
+300,Greece,5,2,4825,Europe,Geophysical,2000-2009
+312,Guadeloupe,1,1,153,North America,Geophysical,2000-2009
+316,Guam,,,,Oceania,Geophysical,2000-2009
+320,Guatemala,4,42,3980,North America,Geophysical,2000-2009
+332,Haiti,,,,North America,Geophysical,2000-2009
+340,Honduras,2,7,52019,North America,Geophysical,2000-2009
+348,Hungary,,,,Europe,Geophysical,2000-2009
+352,Iceland,2,0,199,Europe,Geophysical,2000-2009
+356,India,4,37705,7133146,Asia,Geophysical,2000-2009
+360,Indonesia,49,174923,7892106,Asia,Geophysical,2000-2009
+364,Iran,24,27757,755084,Asia,Geophysical,2000-2009
+368,Iraq,,,,Asia,Geophysical,2000-2009
+372,Ireland,,,,Europe,Geophysical,2000-2009
+380,Italy,6,327,65774,Europe,Geophysical,2000-2009
+392,Japan,17,81,204238,Asia,Geophysical,2000-2009
+398,Kazakhstan,1,3,36626,Asia,Geophysical,2000-2009
+404,Kenya,1,1,0,Africa,Geophysical,2000-2009
+417,Kyrgyzstan,3,74,16247,Asia,Geophysical,2000-2009
+454,Malawi,2,4,20736,Africa,Geophysical,2000-2009
+458,Malaysia,1,80,5063,Asia,Geophysical,2000-2009
+462,Maldives,1,102,27214,Asia,Geophysical,2000-2009
+474,Martinique,1,1,100,North America,Geophysical,2000-2009
+484,Mexico,4,29,219904,North America,Geophysical,2000-2009
+500,Montserrat,1,0,200,North America,Geophysical,2000-2009
+504,Morocco,1,628,13465,Africa,Geophysical,2000-2009
+508,Mozambique,1,4,1476,Africa,Geophysical,2000-2009
+104,Myanmar,1,71,15700,Asia,Geophysical,2000-2009
+524,Nepal,,,,Asia,Geophysical,2000-2009
+528,Netherlands,,,,Europe,Geophysical,2000-2009
+554,New Zealand,,,,Oceania,Geophysical,2000-2009
+558,Nicaragua,1,7,7477,North America,Geophysical,2000-2009
+807,North Macedonia,,,,Europe,Geophysical,2000-2009
+580,Northern Mariana Islands,1,0,0,Oceania,Geophysical,2000-2009
+578,Norway,,,,Europe,Geophysical,2000-2009
+512,Oman,,,,Asia,Geophysical,2000-2009
+586,Pakistan,7,73579,6286916,Asia,Geophysical,2000-2009
+591,Panama,2,2,1415,North America,Geophysical,2000-2009
+598,Papua New Guinea,11,18,51770,Oceania,Geophysical,2000-2009
+604,Peru,7,749,1017934,South America,Geophysical,2000-2009
+608,Philippines,9,26,330512,Asia,Geophysical,2000-2009
+642,Romania,,,,Europe,Geophysical,2000-2009
+643,Russia,6,18,45838,Europe,Geophysical,2000-2009
+646,Rwanda,2,81,2286,Africa,Geophysical,2000-2009
+662,Saint Lucia,1,0,0,North America,Geophysical,2000-2009
+882,Samoa,1,148,5584,Oceania,Geophysical,2000-2009
+682,Saudi Arabia,,,,Asia,Geophysical,2000-2009
+688,Serbia,,,,Europe,Geophysical,2000-2009
+690,Seychelles,1,3,4830,Africa,Geophysical,2000-2009
+705,Slovenia,1,1,605,Europe,Geophysical,2000-2009
+90,Solomon Islands,1,52,2384,Oceania,Geophysical,2000-2009
+706,Somalia,1,298,105083,Africa,Geophysical,2000-2009
+710,South Africa,1,2,58,Africa,Geophysical,2000-2009
+410,South Korea,,,,Asia,Geophysical,2000-2009
+724,Spain,,,,Europe,Geophysical,2000-2009
+144,Sri Lanka,1,35399,1019306,Asia,Geophysical,2000-2009
+729,Sudan,,,,Africa,Geophysical,2000-2009
+740,Suriname,,,,South America,Geophysical,2000-2009
+756,Switzerland,,,,Europe,Geophysical,2000-2009
+762,Tajikistan,6,17,30160,Asia,Geophysical,2000-2009
+834,Tanzania,5,15,8491,Africa,Geophysical,2000-2009
+764,Thailand,1,8345,67007,Asia,Geophysical,2000-2009
+626,Timor-Leste,,,,Asia,Geophysical,2000-2009
+776,Tonga,1,9,507,Oceania,Geophysical,2000-2009
+780,Trinidad and Tobago,,,,North America,Geophysical,2000-2009
+792,Turkey,15,252,607910,Europe,Geophysical,2000-2009
+795,Turkmenistan,1,11,0,Asia,Geophysical,2000-2009
+800,Uganda,,,,Africa,Geophysical,2000-2009
+826,UK,1,0,4501,Europe,Geophysical,2000-2009
+784,United Arab Emirates,,,,Asia,Geophysical,2000-2009
+840,USA,5,3,31366,North America,Geophysical,2000-2009
+860,Uzbekistan,,,,Asia,Geophysical,2000-2009
+548,Vanuatu,7,0,19903,Oceania,Geophysical,2000-2009
+862,Venezuela,,,,South America,Geophysical,2000-2009
+876,Wallis and Futuna,,,,Oceania,Geophysical,2000-2009
+887,Yemen,1,6,15,Asia,Geophysical,2000-2009
+887,Yemen,,,,Asia,Geophysical,2000-2009
+4,Afghanistan,45,1218,459474,Asia,Hydrological,2000-2009
+8,Albania,4,4,76484,Europe,Hydrological,2000-2009
+12,Algeria,25,1312,200271,Africa,Hydrological,2000-2009
+16,American Samoa,1,6,3,Oceania,Hydrological,2000-2009
+24,Angola,21,341,816159,Africa,Hydrological,2000-2009
+32,Argentina,20,77,749075,South America,Hydrological,2000-2009
+51,Armenia,1,1,0,Asia,Hydrological,2000-2009
+36,Australia,21,34,35391,Oceania,Hydrological,2000-2009
+40,Austria,7,27,61416,Europe,Hydrological,2000-2009
+31,Azerbaijan,3,11,36500,Asia,Hydrological,2000-2009
+44,Bahamas,,,,North America,Hydrological,2000-2009
+50,Bangladesh,23,2417,58649803,Asia,Hydrological,2000-2009
+112,Belarus,,,,Europe,Hydrological,2000-2009
+56,Belgium,6,2,2610,Europe,Hydrological,2000-2009
+84,Belize,1,1,38000,North America,Hydrological,2000-2009
+204,Benin,4,35,288776,Africa,Hydrological,2000-2009
+64,Bhutan,2,200,1000,Asia,Hydrological,2000-2009
+68,Bolivia,13,430,1442031,South America,Hydrological,2000-2009
+70,Bosnia and Herzegovina,7,6,294233,Europe,Hydrological,2000-2009
+72,Botswana,4,3,148392,Africa,Hydrological,2000-2009
+76,Brazil,39,1087,4441672,South America,Hydrological,2000-2009
+100,Bulgaria,11,52,13270,Europe,Hydrological,2000-2009
+854,Burkina Faso,8,67,315143,Africa,Hydrological,2000-2009
+108,Burundi,16,36,75281,Africa,Hydrological,2000-2009
+132,Cabo Verde,1,3,150,Africa,Hydrological,2000-2009
+116,Cambodia,8,455,6644235,Asia,Hydrological,2000-2009
+120,Cameroon,6,72,37396,Africa,Hydrological,2000-2009
+124,Canada,18,9,16070,North America,Hydrological,2000-2009
+140,Central African Republic,6,6,56350,Africa,Hydrological,2000-2009
+148,Chad,8,173,376128,Africa,Hydrological,2000-2009
+152,Chile,14,74,675833,South America,Hydrological,2000-2009
+156,China,126,6740,528315707,Asia,Hydrological,2000-2009
+170,Colombia,32,1287,5510358,South America,Hydrological,2000-2009
+174,Comoros,1,2,2500,Africa,Hydrological,2000-2009
+188,Costa Rica,14,51,284229,North America,Hydrological,2000-2009
+384,Côte d’Ivoire,3,33,12456,Africa,Hydrological,2000-2009
+191,Croatia,4,0,2050,Europe,Hydrological,2000-2009
+192,Cuba,6,4,75775,North America,Hydrological,2000-2009
+203,Czech Republic,6,38,218765,Europe,Hydrological,2000-2009
+180,Democratic Republic of the Congo,12,151,37119,Africa,Hydrological,2000-2009
+262,Djibouti,1,51,100000,Africa,Hydrological,2000-2009
+214,Dominican Republic,9,723,113060,North America,Hydrological,2000-2009
+218,Ecuador,11,227,431084,South America,Hydrological,2000-2009
+818,Egypt,2,18,870,Africa,Hydrological,2000-2009
+222,El Salvador,8,83,7332,North America,Hydrological,2000-2009
+232,Eritrea,2,0,7013,Africa,Hydrological,2000-2009
+748,Eswatini,2,0,274500,Africa,Hydrological,2000-2009
+231,Ethiopia,24,1443,1222055,Africa,Hydrological,2000-2009
+242,Fiji,7,26,12280,Oceania,Hydrological,2000-2009
+246,Finland,1,0,400,Europe,Hydrological,2000-2009
+250,France,18,44,53674,Europe,Hydrological,2000-2009
+254,French Guiana,1,10,5,South America,Hydrological,2000-2009
+258,French Polynesia,,,,Oceania,Hydrological,2000-2009
+266,Gabon,,,,Africa,Hydrological,2000-2009
+270,Gambia,4,6,15208,Africa,Hydrological,2000-2009
+268,Georgia,4,1,3190,Asia,Hydrological,2000-2009
+276,Germany,6,29,331558,Europe,Hydrological,2000-2009
+288,Ghana,7,112,696370,Africa,Hydrological,2000-2009
+300,Greece,14,15,12180,Europe,Hydrological,2000-2009
+320,Guatemala,14,264,315151,North America,Hydrological,2000-2009
+324,Guinea,5,11,286085,Africa,Hydrological,2000-2009
+624,Guinea-Bissau,3,3,1750,Africa,Hydrological,2000-2009
+328,Guyana,3,34,409774,South America,Hydrological,2000-2009
+332,Haiti,20,2910,394743,North America,Hydrological,2000-2009
+340,Honduras,10,106,336951,North America,Hydrological,2000-2009
+344,Hong Kong,1,0,0,Asia,Hydrological,2000-2009
+348,Hungary,7,1,45823,Europe,Hydrological,2000-2009
+352,Iceland,,,,Europe,Hydrological,2000-2009
+356,India,109,14330,247420727,Asia,Hydrological,2000-2009
+360,Indonesia,86,3816,3729137,Asia,Hydrological,2000-2009
+364,Iran,22,764,1424891,Asia,Hydrological,2000-2009
+368,Iraq,5,26,71510,Asia,Hydrological,2000-2009
+372,Ireland,2,0,300,Europe,Hydrological,2000-2009
+376,Israel,,,,Asia,Hydrological,2000-2009
+380,Italy,16,101,62991,Europe,Hydrological,2000-2009
+388,Jamaica,2,10,30000,North America,Hydrological,2000-2009
+392,Japan,12,157,460994,Asia,Hydrological,2000-2009
+400,Jordan,,,,Asia,Hydrological,2000-2009
+398,Kazakhstan,5,49,44168,Asia,Hydrological,2000-2009
+404,Kenya,30,597,1308123,Africa,Hydrological,2000-2009
+296,Kiribati,1,0,85,Oceania,Hydrological,2000-2009
+414,Kuwait,,,,Asia,Hydrological,2000-2009
+417,Kyrgyzstan,7,90,4206,Asia,Hydrological,2000-2009
+418,Laos,5,33,1257190,Asia,Hydrological,2000-2009
+422,Lebanon,1,0,17000,Asia,Hydrological,2000-2009
+426,Lesotho,,,,Africa,Hydrological,2000-2009
+430,Liberia,3,3,17924,Africa,Hydrological,2000-2009
+434,Libya,,,,Africa,Hydrological,2000-2009
+440,Lithuania,1,0,0,Europe,Hydrological,2000-2009
+442,Luxembourg,,,,Europe,Hydrological,2000-2009
+450,Madagascar,4,52,115987,Africa,Hydrological,2000-2009
+454,Malawi,15,91,1223435,Africa,Hydrological,2000-2009
+458,Malaysia,24,122,413564,Asia,Hydrological,2000-2009
+462,Maldives,1,0,1649,Asia,Hydrological,2000-2009
+466,Mali,11,63,150643,Africa,Hydrological,2000-2009
+584,Marshall Islands,1,0,600,Oceania,Hydrological,2000-2009
+478,Mauritania,9,45,133739,Africa,Hydrological,2000-2009
+480,Mauritius,,,,Africa,Hydrological,2000-2009
+484,Mexico,28,413,1896324,North America,Hydrological,2000-2009
+583,Micronesia,1,0,0,Oceania,Hydrological,2000-2009
+498,Moldova,3,4,11000,Europe,Hydrological,2000-2009
+496,Mongolia,2,41,16650,Asia,Hydrological,2000-2009
+499,Montenegro,2,0,1536,Europe,Hydrological,2000-2009
+504,Morocco,12,221,57887,Africa,Hydrological,2000-2009
+508,Mozambique,15,1012,6225126,Africa,Hydrological,2000-2009
+104,Myanmar,9,143,231781,Asia,Hydrological,2000-2009
+516,Namibia,9,148,474300,Africa,Hydrological,2000-2009
+524,Nepal,17,1866,2456318,Asia,Hydrological,2000-2009
+528,Netherlands,,,,Europe,Hydrological,2000-2009
+554,New Zealand,6,4,7250,Oceania,Hydrological,2000-2009
+558,Nicaragua,8,56,69888,North America,Hydrological,2000-2009
+562,Niger,7,34,269034,Africa,Hydrological,2000-2009
+566,Nigeria,28,568,557821,Africa,Hydrological,2000-2009
+408,North Korea,9,1229,1724372,Asia,Hydrological,2000-2009
+807,North Macedonia,6,2,109900,Europe,Hydrological,2000-2009
+578,Norway,2,0,2100,Europe,Hydrological,2000-2009
+512,Oman,,,,Asia,Hydrological,2000-2009
+586,Pakistan,41,2504,9574172,Asia,Hydrological,2000-2009
+275,Palestine,1,0,0,Asia,Hydrological,2000-2009
+591,Panama,15,66,93667,North America,Hydrological,2000-2009
+598,Papua New Guinea,12,85,111288,Oceania,Hydrological,2000-2009
+600,Paraguay,2,0,14800,South America,Hydrological,2000-2009
+604,Peru,21,484,901090,South America,Hydrological,2000-2009
+608,Philippines,51,2216,4376698,Asia,Hydrological,2000-2009
+616,Poland,5,30,19850,Europe,Hydrological,2000-2009
+620,Portugal,5,9,646,Europe,Hydrological,2000-2009
+630,Puerto Rico,3,4,11885,North America,Hydrological,2000-2009
+634,Qatar,,,,Asia,Hydrological,2000-2009
+178,Republic of the Congo,4,7,85000,Africa,Hydrological,2000-2009
+642,Romania,30,196,212081,Europe,Hydrological,2000-2009
+643,Russia,32,497,874812,Europe,Hydrological,2000-2009
+646,Rwanda,8,135,47862,Africa,Hydrological,2000-2009
+662,Saint Lucia,,,,North America,Hydrological,2000-2009
+670,Saint Vincent and the Grenadines,,,,North America,Hydrological,2000-2009
+882,Samoa,1,0,0,Oceania,Hydrological,2000-2009
+682,Saudi Arabia,7,260,23547,Asia,Hydrological,2000-2009
+686,Senegal,7,51,529669,Africa,Hydrological,2000-2009
+688,Serbia,2,0,15580,Europe,Hydrological,2000-2009
+690,Seychelles,,,,Africa,Hydrological,2000-2009
+694,Sierra Leone,4,133,20970,Africa,Hydrological,2000-2009
+703,Slovakia,6,4,330,Europe,Hydrological,2000-2009
+705,Slovenia,1,0,0,Europe,Hydrological,2000-2009
+90,Solomon Islands,1,21,7000,Oceania,Hydrological,2000-2009
+706,Somalia,19,140,939582,Africa,Hydrological,2000-2009
+710,South Africa,14,152,133328,Africa,Hydrological,2000-2009
+410,South Korea,11,198,341940,Asia,Hydrological,2000-2009
+728,South Sudan,3,17,92791,Africa,Hydrological,2000-2009
+724,Spain,8,35,6080,Europe,Hydrological,2000-2009
+144,Sri Lanka,17,363,3836067,Asia,Hydrological,2000-2009
+729,Sudan,10,225,1526626,Africa,Hydrological,2000-2009
+740,Suriname,2,5,31548,South America,Hydrological,2000-2009
+756,Switzerland,6,27,7382,Europe,Hydrological,2000-2009
+760,Syria,2,86,23,Asia,Hydrological,2000-2009
+762,Tajikistan,19,145,467644,Asia,Hydrological,2000-2009
+834,Tanzania,12,175,96900,Africa,Hydrological,2000-2009
+764,Thailand,34,1006,13064685,Asia,Hydrological,2000-2009
+626,Timor-Leste,5,5,4505,Asia,Hydrological,2000-2009
+768,Togo,4,47,188145,Africa,Hydrological,2000-2009
+780,Trinidad and Tobago,1,2,1200,North America,Hydrological,2000-2009
+788,Tunisia,5,45,33508,Africa,Hydrological,2000-2009
+792,Turkey,22,247,161567,Europe,Hydrological,2000-2009
+795,Turkmenistan,,,,Asia,Hydrological,2000-2009
+800,Uganda,14,139,793991,Africa,Hydrological,2000-2009
+826,UK,15,26,380838,Europe,Hydrological,2000-2009
+804,Ukraine,6,49,538665,Europe,Hydrological,2000-2009
+784,United Arab Emirates,,,,Asia,Hydrological,2000-2009
+858,Uruguay,7,3,136700,South America,Hydrological,2000-2009
+840,USA,57,314,11325487,North America,Hydrological,2000-2009
+860,Uzbekistan,1,0,1500,Asia,Hydrological,2000-2009
+548,Vanuatu,2,0,3951,Oceania,Hydrological,2000-2009
+862,Venezuela,12,160,134462,South America,Hydrological,2000-2009
+704,Vietnam,41,2109,10996344,Asia,Hydrological,2000-2009
+887,Yemen,16,412,31434,Asia,Hydrological,2000-2009
+894,Zambia,,,,Africa,Hydrological,2000-2009
+716,Zimbabwe,,,,Africa,Hydrological,2000-2009
+4,Afghanistan,7,1996,393340,Asia,Meteorological,2000-2009
+8,Albania,4,11,525150,Europe,Meteorological,2000-2009
+12,Algeria,4,67,15,Africa,Meteorological,2000-2009
+16,American Samoa,2,0,23060,Oceania,Meteorological,2000-2009
+660,Anguilla,,,,North America,Meteorological,2000-2009
+28,Antigua and Barbuda,   ,0,25800,North America,Meteorological,2000-2009
+32,Argentina,13,100,12756,South America,Meteorological,2000-2009
+51,Armenia,,,,Asia,Meteorological,2000-2009
+36,Australia,27,359,44851,Oceania,Meteorological,2000-2009
+40,Austria,10,359,300,Europe,Meteorological,2000-2009
+31,Azerbaijan,,,,Asia,Meteorological,2000-2009
+44,Bahamas,8,14,20500,North America,Meteorological,2000-2009
+50,Bangladesh,49,6923,13486040,Asia,Meteorological,2000-2009
+52,Barbados,2,1,2880,North America,Meteorological,2000-2009
+112,Belarus,3,5,1820,Europe,Meteorological,2000-2009
+56,Belgium,8,2125,2,Europe,Meteorological,2000-2009
+84,Belize,7,54,112570,North America,Meteorological,2000-2009
+204,Benin,1,0,800,Africa,Meteorological,2000-2009
+60,Bermuda,1,4,0,North America,Meteorological,2000-2009
+64,Bhutan,1,12,0,Asia,Meteorological,2000-2009
+68,Bolivia,5,35,44022,South America,Meteorological,2000-2009
+70,Bosnia and Herzegovina,3,5,10000,Europe,Meteorological,2000-2009
+72,Botswana,1,0,400,Africa,Meteorological,2000-2009
+76,Brazil,7,33,157768,South America,Meteorological,2000-2009
+92,British Virgin Islands,,,,North America,Meteorological,2000-2009
+100,Bulgaria,7,39,70,Europe,Meteorological,2000-2009
+108,Burundi,3,0,17005,Africa,Meteorological,2000-2009
+132,Cabo Verde,,,,Africa,Meteorological,2000-2009
+116,Cambodia,2,19,178091,Asia,Meteorological,2000-2009
+124,Canada,11,32,1373,North America,Meteorological,2000-2009
+136,Cayman Islands,7,2,300,North America,Meteorological,2000-2009
+140,Central African Republic,3,6,15972,Africa,Meteorological,2000-2009
+148,Chad,1,14,145,Africa,Meteorological,2000-2009
+152,Chile,6,53,27512,South America,Meteorological,2000-2009
+156,China,90,3371,357447810,Asia,Meteorological,2000-2009
+170,Colombia,2,5,10774,South America,Meteorological,2000-2009
+174,Comoros,1,0,300,Africa,Meteorological,2000-2009
+184,Cook Islands,2,0,1352,Oceania,Meteorological,2000-2009
+188,Costa Rica,2,5,56074,North America,Meteorological,2000-2009
+191,Croatia,4,835,200,Europe,Meteorological,2000-2009
+192,Cuba,14,40,9763452,North America,Meteorological,2000-2009
+196,Cyprus,4,9,440,Asia,Meteorological,2000-2009
+203,Czech Republic,8,443,15,Europe,Meteorological,2000-2009
+180,Democratic Republic of the Congo,5,49,103036,Africa,Meteorological,2000-2009
+208,Denmark,3,5,0,Europe,Meteorological,2000-2009
+262,Djibouti,,,,Africa,Meteorological,2000-2009
+212,Dominica,1,2,7530,North America,Meteorological,2000-2009
+214,Dominican Republic,12,211,185194,North America,Meteorological,2000-2009
+818,Egypt,2,16,147,Africa,Meteorological,2000-2009
+222,El Salvador,7,346,165541,North America,Meteorological,2000-2009
+232,Eritrea,,,,Africa,Meteorological,2000-2009
+233,Estonia,2,3,100,Europe,Meteorological,2000-2009
+748,Eswatini,2,1,7685,Africa,Meteorological,2000-2009
+242,Fiji,8,44,39082,Oceania,Meteorological,2000-2009
+246,Finland,,,,Europe,Meteorological,2000-2009
+250,France,24,20961,5358,Europe,Meteorological,2000-2009
+258,French Polynesia,,,,Oceania,Meteorological,2000-2009
+266,Gabon,1,0,800,Africa,Meteorological,2000-2009
+270,Gambia,4,5,16806,Africa,Meteorological,2000-2009
+268,Georgia,1,0,900,Asia,Meteorological,2000-2009
+276,Germany,22,9468,616,Europe,Meteorological,2000-2009
+288,Ghana,,,,Africa,Meteorological,2000-2009
+300,Greece,6,48,788,Europe,Meteorological,2000-2009
+308,Grenada,1,39,60000,North America,Meteorological,2000-2009
+312,Guadeloupe,1,0,0,North America,Meteorological,2000-2009
+316,Guam,4,2,15444,Oceania,Meteorological,2000-2009
+320,Guatemala,7,1546,489015,North America,Meteorological,2000-2009
+324,Guinea,1,4,0,Africa,Meteorological,2000-2009
+624,Guinea-Bissau,,,,Africa,Meteorological,2000-2009
+332,Haiti,18,3663,726834,North America,Meteorological,2000-2009
+340,Honduras,7,75,209690,North America,Meteorological,2000-2009
+344,Hong Kong,6,6,4090,Asia,Meteorological,2000-2009
+348,Hungary,7,662,800,Europe,Meteorological,2000-2009
+352,Iceland,,,,Europe,Meteorological,2000-2009
+356,India,45,5927,5931639,Asia,Meteorological,2000-2009
+360,Indonesia,2,4,3715,Asia,Meteorological,2000-2009
+364,Iran,5,43,201009,Asia,Meteorological,2000-2009
+372,Ireland,3,1,200,Europe,Meteorological,2000-2009
+376,Israel,2,3,410,Asia,Meteorological,2000-2009
+380,Italy,8,20110,200,Europe,Meteorological,2000-2009
+388,Jamaica,12,45,399410,North America,Meteorological,2000-2009
+392,Japan,37,581,974554,Asia,Meteorological,2000-2009
+400,Jordan,3,14,237,Asia,Meteorological,2000-2009
+398,Kazakhstan,1,3,12,Asia,Meteorological,2000-2009
+296,Kiribati,,,,Oceania,Meteorological,2000-2009
+417,Kyrgyzstan,2,15,9075,Asia,Meteorological,2000-2009
+418,Laos,1,16,128887,Asia,Meteorological,2000-2009
+428,Latvia,5,76,0,Europe,Meteorological,2000-2009
+422,Lebanon,1,0,500,Asia,Meteorological,2000-2009
+426,Lesotho,3,1,6501,Africa,Meteorological,2000-2009
+430,Liberia,1,0,3500,Africa,Meteorological,2000-2009
+440,Lithuania,2,20,0,Europe,Meteorological,2000-2009
+442,Luxembourg,1,170,0,Europe,Meteorological,2000-2009
+446,Macao,,,,Asia,Meteorological,2000-2009
+450,Madagascar,22,958,3730465,Africa,Meteorological,2000-2009
+454,Malawi,1,11,8,Africa,Meteorological,2000-2009
+458,Malaysia,4,3,41655,Asia,Meteorological,2000-2009
+462,Maldives,,,,Asia,Meteorological,2000-2009
+584,Marshall Islands,,,,Oceania,Meteorological,2000-2009
+474,Martinique,1,1,6,North America,Meteorological,2000-2009
+478,Mauritania,,,,Africa,Meteorological,2000-2009
+480,Mauritius,2,5,1050,Africa,Meteorological,2000-2009
+484,Mexico,31,300,4610501,North America,Meteorological,2000-2009
+583,Micronesia,4,48,8631,Oceania,Meteorological,2000-2009
+498,Moldova,2,13,2600000,Europe,Meteorological,2000-2009
+496,Mongolia,7,99,2680113,Asia,Meteorological,2000-2009
+499,Montenegro,,,,Europe,Meteorological,2000-2009
+500,Montserrat,,,,North America,Meteorological,2000-2009
+504,Morocco,2,1,0,Africa,Meteorological,2000-2009
+508,Mozambique,9,65,418317,Africa,Meteorological,2000-2009
+104,Myanmar,3,138636,2505106,Asia,Meteorological,2000-2009
+524,Nepal,3,126,200,Asia,Meteorological,2000-2009
+528,Netherlands,8,1976,1,Europe,Meteorological,2000-2009
+540,New Caledonia,1,2,1100,Oceania,Meteorological,2000-2009
+554,New Zealand,5,2,400,Oceania,Meteorological,2000-2009
+558,Nicaragua,10,228,275142,North America,Meteorological,2000-2009
+562,Niger,1,4,1253,Africa,Meteorological,2000-2009
+566,Nigeria,2,60,1000,Africa,Meteorological,2000-2009
+570,Niue,1,1,702,Oceania,Meteorological,2000-2009
+408,North Korea,3,49,636230,Asia,Meteorological,2000-2009
+807,North Macedonia,4,31,205,Europe,Meteorological,2000-2009
+580,Northern Mariana Islands,2,3,500,Oceania,Meteorological,2000-2009
+578,Norway,2,0,100,Europe,Meteorological,2000-2009
+512,Oman,3,113,20083,Asia,Meteorological,2000-2009
+586,Pakistan,12,896,1653393,Asia,Meteorological,2000-2009
+585,Palau,,,,Oceania,Meteorological,2000-2009
+275,Palestine,,,,Asia,Meteorological,2000-2009
+591,Panama,,,,North America,Meteorological,2000-2009
+598,Papua New Guinea,1,172,162140,Oceania,Meteorological,2000-2009
+600,Paraguay,5,8,60855,South America,Meteorological,2000-2009
+604,Peru,5,829,4972871,South America,Meteorological,2000-2009
+608,Philippines,80,7141,43165371,Asia,Meteorological,2000-2009
+616,Poland,14,1146,1142,Europe,Meteorological,2000-2009
+620,Portugal,5,3203,70,Europe,Meteorological,2000-2009
+630,Puerto Rico,4,3,3600,North America,Meteorological,2000-2009
+638,Réunion,3,4,3790,Africa,Meteorological,2000-2009
+642,Romania,17,311,3610,Europe,Meteorological,2000-2009
+643,Russia,20,1390,50208,Europe,Meteorological,2000-2009
+646,Rwanda,,,,Africa,Meteorological,2000-2009
+652,Saint Barthélemy,,,,North America,Meteorological,2000-2009
+654,Saint Helena,1,0,300,Africa,Meteorological,2000-2009
+659,Saint Kitts and Nevis,,,,North America,Meteorological,2000-2009
+662,Saint Lucia,2,1,0,North America,Meteorological,2000-2009
+663,Saint Martin,,,,North America,Meteorological,2000-2009
+670,Saint Vincent and the Grenadines,3,4,1534,North America,Meteorological,2000-2009
+882,Samoa,2,10,0,Oceania,Meteorological,2000-2009
+682,Saudi Arabia,,,,Asia,Meteorological,2000-2009
+686,Senegal,1,2,1000,Africa,Meteorological,2000-2009
+688,Serbia,2,0,500,Europe,Meteorological,2000-2009
+690,Seychelles,1,0,6800,Africa,Meteorological,2000-2009
+694,Sierra Leone,,,,Africa,Meteorological,2000-2009
+534,Sint Maarten,,,,North America,Meteorological,2000-2009
+703,Slovakia,4,3,10413,Europe,Meteorological,2000-2009
+705,Slovenia,3,295,1050,Europe,Meteorological,2000-2009
+90,Solomon Islands,3,0,1535,Oceania,Meteorological,2000-2009
+706,Somalia,,,,Africa,Meteorological,2000-2009
+710,South Africa,12,84,106332,Africa,Meteorological,2000-2009
+410,South Korea,15,423,174260,Asia,Meteorological,2000-2009
+724,Spain,9,15185,2,Europe,Meteorological,2000-2009
+144,Sri Lanka,2,14,425000,Asia,Meteorological,2000-2009
+729,Sudan,1,33,0,Africa,Meteorological,2000-2009
+752,Sweden,3,8,0,Europe,Meteorological,2000-2009
+756,Switzerland,9,1041,9,Europe,Meteorological,2000-2009
+760,Syria,2,32,352,Asia,Meteorological,2000-2009
+762,Tajikistan,2,0,2000830,Asia,Meteorological,2000-2009
+834,Tanzania,3,0,1282,Africa,Meteorological,2000-2009
+764,Thailand,11,27,90123,Asia,Meteorological,2000-2009
+626,Timor-Leste,1,0,8730,Asia,Meteorological,2000-2009
+772,Tokelau,1,0,26,Oceania,Meteorological,2000-2009
+776,Tonga,2,0,16500,Oceania,Meteorological,2000-2009
+780,Trinidad and Tobago,2,1,560,North America,Meteorological,2000-2009
+792,Turkey,10,107,2086,Europe,Meteorological,2000-2009
+796,Turks and Caicos,4,4,1700,North America,Meteorological,2000-2009
+798,Tuvalu,,,,Oceania,Meteorological,2000-2009
+800,Uganda,3,0,10105,Africa,Meteorological,2000-2009
+826,UK,14,360,23331,Europe,Meteorological,2000-2009
+804,Ukraine,9,843,115262,Europe,Meteorological,2000-2009
+784,United Arab Emirates,,,,Asia,Meteorological,2000-2009
+850,United States Virgin Islands,1,0,0,North America,Meteorological,2000-2009
+858,Uruguay,6,16,4012,South America,Meteorological,2000-2009
+840,USA,136,3703,8692834,North America,Meteorological,2000-2009
+548,Vanuatu,3,4,54808,Oceania,Meteorological,2000-2009
+862,Venezuela,1,5,1730,South America,Meteorological,2000-2009
+704,Vietnam,33,1319,8207385,Asia,Meteorological,2000-2009
+876,Wallis and Futuna,,,,Oceania,Meteorological,2000-2009
+887,Yemen,2,30,0,Asia,Meteorological,2000-2009
+716,Zimbabwe,2,8,0,Africa,Meteorological,2000-2009
+254,French Guiana,,,,South America,Meteorological,2000-2009
+740,Suriname,,,,South America,Meteorological,2000-2009
+4,Afghanistan,2,0,12350000,Asia,Climatological,2010-2019
+8,Albania,,,,Europe,Climatological,2010-2019
+12,Algeria,,,,Africa,Climatological,2010-2019
+24,Angola,2,0,3253900,Africa,Climatological,2010-2019
+660,Anguilla,,,,North America,Climatological,2010-2019
+28,Antigua and Barbuda,,,,North America,Climatological,2010-2019
+32,Argentina,1,0,0,South America,Climatological,2010-2019
+51,Armenia,,,,Asia,Climatological,2010-2019
+36,Australia,13,41,12628,Oceania,Climatological,2010-2019
+40,Austria,,,,Europe,Climatological,2010-2019
+31,Azerbaijan,,,,Asia,Climatological,2010-2019
+50,Bangladesh,,,,Asia,Climatological,2010-2019
+52,Barbados,1,0,0,North America,Climatological,2010-2019
+112,Belarus,,,,Europe,Climatological,2010-2019
+56,Belgium,,,,Europe,Climatological,2010-2019
+204,Benin,1,1,2759,Africa,Climatological,2010-2019
+64,Bhutan,,,,Asia,Climatological,2010-2019
+68,Bolivia,6,0,1119335,South America,Climatological,2010-2019
+70,Bosnia and Herzegovina,,,,Europe,Climatological,2010-2019
+72,Botswana,2,0,38000,Africa,Climatological,2010-2019
+76,Brazil,4,0,31062000,South America,Climatological,2010-2019
+96,Brunei,,,,Asia,Climatological,2010-2019
+100,Bulgaria,,,,Europe,Climatological,2010-2019
+854,Burkina Faso,2,0,6850000,Africa,Climatological,2010-2019
+108,Burundi,1,0,0,Africa,Climatological,2010-2019
+132,Cabo Verde,,,,Africa,Climatological,2010-2019
+116,Cambodia,1,0,2500000,Asia,Climatological,2010-2019
+120,Cameroon,1,0,12000,Africa,Climatological,2010-2019
+124,Canada,5,1,154477,North America,Climatological,2010-2019
+140,Central African Republic,,,,Africa,Climatological,2010-2019
+148,Chad,2,0,3486800,Africa,Climatological,2010-2019
+152,Chile,7,32,20149,South America,Climatological,2010-2019
+156,China,9,52,79726003,Asia,Climatological,2010-2019
+170,Colombia,2,31,200,South America,Climatological,2010-2019
+174,Comoros,,,,Africa,Climatological,2010-2019
+188,Costa Rica,2,0,0,North America,Climatological,2010-2019
+384,Côte d’Ivoire,,,,Africa,Climatological,2010-2019
+191,Croatia,1,0,80,Europe,Climatological,2010-2019
+192,Cuba,1,0,100000,North America,Climatological,2010-2019
+196,Cyprus,,,,Asia,Climatological,2010-2019
+203,Czech Republic,,,,Europe,Climatological,2010-2019
+180,Democratic Republic of the Congo,2,11,59773,Africa,Climatological,2010-2019
+208,Denmark,,,,Europe,Climatological,2010-2019
+262,Djibouti,1,0,200258,Africa,Climatological,2010-2019
+214,Dominican Republic,,,,North America,Climatological,2010-2019
+218,Ecuador,2,5,5110,South America,Climatological,2010-2019
+818,Egypt,,,,Africa,Climatological,2010-2019
+222,El Salvador,2,0,1086610,North America,Climatological,2010-2019
+232,Eritrea,,,,Africa,Climatological,2010-2019
+748,Eswatini,2,0,724000,Africa,Climatological,2010-2019
+231,Ethiopia,3,0,16005679,Africa,Climatological,2010-2019
+242,Fiji,1,0,67000,Oceania,Climatological,2010-2019
+246,Finland,,,,Europe,Climatological,2010-2019
+250,France,1,0,12012,Europe,Climatological,2010-2019
+254,French Guiana,,,,South America,Climatological,2010-2019
+266,Gabon,,,,Africa,Climatological,2010-2019
+270,Gambia,2,0,491100,Africa,Climatological,2010-2019
+268,Georgia,,,,Asia,Climatological,2010-2019
+276,Germany,,,,Europe,Climatological,2010-2019
+288,Ghana,,,,Africa,Climatological,2010-2019
+300,Greece,1,100,4718,Europe,Climatological,2010-2019
+308,Grenada,1,0,0,North America,Climatological,2010-2019
+320,Guatemala,3,0,3066485,North America,Climatological,2010-2019
+324,Guinea,,,,Africa,Climatological,2010-2019
+624,Guinea-Bissau,,,,Africa,Climatological,2010-2019
+328,Guyana,1,0,0,South America,Climatological,2010-2019
+332,Haiti,2,0,4600000,North America,Climatological,2010-2019
+340,Honduras,3,0,1056710,North America,Climatological,2010-2019
+344,Hong Kong,,,,Asia,Climatological,2010-2019
+348,Hungary,,,,Europe,Climatological,2010-2019
+352,Iceland,,,,Europe,Climatological,2010-2019
+356,India,4,24,338200000,Asia,Climatological,2010-2019
+360,Indonesia,2,30,409664,Asia,Climatological,2010-2019
+364,Iran,,,,Asia,Climatological,2010-2019
+368,Iraq,,,,Asia,Climatological,2010-2019
+372,Ireland,,,,Europe,Climatological,2010-2019
+376,Israel,2,44,80159,Asia,Climatological,2010-2019
+380,Italy,2,0,0,Europe,Climatological,2010-2019
+388,Jamaica,1,0,91545,North America,Climatological,2010-2019
+392,Japan,,,,Asia,Climatological,2010-2019
+400,Jordan,,,,Asia,Climatological,2010-2019
+398,Kazakhstan,,,,Asia,Climatological,2010-2019
+404,Kenya,5,0,15250000,Africa,Climatological,2010-2019
+296,Kiribati,,,,Oceania,Climatological,2010-2019
+417,Kyrgyzstan,,,,Asia,Climatological,2010-2019
+418,Laos,1,0,0,Asia,Climatological,2010-2019
+428,Latvia,1,0,0,Europe,Climatological,2010-2019
+422,Lebanon,,,,Asia,Climatological,2010-2019
+426,Lesotho,3,0,2137515,Africa,Climatological,2010-2019
+430,Liberia,,,,Africa,Climatological,2010-2019
+440,Lithuania,1,0,0,Europe,Climatological,2010-2019
+450,Madagascar,3,0,2420000,Africa,Climatological,2010-2019
+454,Malawi,2,0,8600000,Africa,Climatological,2010-2019
+458,Malaysia,1,0,2200000,Asia,Climatological,2010-2019
+466,Mali,2,0,4100000,Africa,Climatological,2010-2019
+584,Marshall Islands,2,0,27384,Oceania,Climatological,2010-2019
+478,Mauritania,4,0,5805374,Africa,Climatological,2010-2019
+480,Mauritius,,,,Africa,Climatological,2010-2019
+484,Mexico,2,0,2500000,North America,Climatological,2010-2019
+583,Micronesia,1,0,100000,Oceania,Climatological,2010-2019
+498,Moldova,1,0,5800,Europe,Climatological,2010-2019
+496,Mongolia,,,,Asia,Climatological,2010-2019
+499,Montenegro,1,0,200,Europe,Climatological,2010-2019
+504,Morocco,,,,Africa,Climatological,2010-2019
+508,Mozambique,2,0,2760000,Africa,Climatological,2010-2019
+104,Myanmar,,,,Asia,Climatological,2010-2019
+516,Namibia,3,0,1649644,Africa,Climatological,2010-2019
+524,Nepal,1,11,0,Asia,Climatological,2010-2019
+554,New Zealand,1,0,0,Oceania,Climatological,2010-2019
+558,Nicaragua,2,0,760000,North America,Climatological,2010-2019
+562,Niger,3,0,6719428,Africa,Climatological,2010-2019
+566,Nigeria,,,,Africa,Climatological,2010-2019
+408,North Korea,4,0,31100000,Asia,Climatological,2010-2019
+807,North Macedonia,,,,Europe,Climatological,2010-2019
+578,Norway,,,,Europe,Climatological,2010-2019
+512,Oman,,,,Asia,Climatological,2010-2019
+586,Pakistan,1,77,4680912,Asia,Climatological,2010-2019
+591,Panama,3,0,0,North America,Climatological,2010-2019
+598,Papua New Guinea,1,24,2520000,Oceania,Climatological,2010-2019
+600,Paraguay,4,0,1466900,South America,Climatological,2010-2019
+604,Peru,1,0,0,South America,Climatological,2010-2019
+608,Philippines,2,0,197687,Asia,Climatological,2010-2019
+616,Poland,1,0,0,Europe,Climatological,2010-2019
+620,Portugal,5,121,4965,Europe,Climatological,2010-2019
+630,Puerto Rico,,,,North America,Climatological,2010-2019
+178,Republic of the Congo,,,,Africa,Climatological,2010-2019
+642,Romania,,,,Europe,Climatological,2010-2019
+643,Russia,7,93,13771,Europe,Climatological,2010-2019
+646,Rwanda,,,,Africa,Climatological,2010-2019
+662,Saint Lucia,1,0,0,North America,Climatological,2010-2019
+670,Saint Vincent and the Grenadines,1,0,0,North America,Climatological,2010-2019
+882,Samoa,1,0,0,Oceania,Climatological,2010-2019
+678,Sao Tome and Principe,,,,Africa,Climatological,2010-2019
+682,Saudi Arabia,,,,Asia,Climatological,2010-2019
+686,Senegal,2,0,1489702,Africa,Climatological,2010-2019
+694,Sierra Leone,1,0,2257,Africa,Climatological,2010-2019
+703,Slovakia,,,,Europe,Climatological,2010-2019
+705,Slovenia,,,,Europe,Climatological,2010-2019
+90,Solomon Islands,1,0,0,Oceania,Climatological,2010-2019
+706,Somalia,5,20000,13735624,Africa,Climatological,2010-2019
+710,South Africa,4,9,3455500,Africa,Climatological,2010-2019
+410,South Korea,1,1,3035,Asia,Climatological,2010-2019
+728,South Sudan,2,50,3600012,Africa,Climatological,2010-2019
+724,Spain,4,8,1506,Europe,Climatological,2010-2019
+144,Sri Lanka,3,0,4500000,Asia,Climatological,2010-2019
+729,Sudan,2,0,4000000,Africa,Climatological,2010-2019
+740,Suriname,,,,South America,Climatological,2010-2019
+752,Sweden,1,0,0,Europe,Climatological,2010-2019
+756,Switzerland,,,,Europe,Climatological,2010-2019
+760,Syria,,,,Asia,Climatological,2010-2019
+762,Tajikistan,,,,Asia,Climatological,2010-2019
+834,Tanzania,1,0,1000000,Africa,Climatological,2010-2019
+764,Thailand,6,0,18482602,Asia,Climatological,2010-2019
+626,Timor-Leste,1,0,120000,Asia,Climatological,2010-2019
+768,Togo,,,,Africa,Climatological,2010-2019
+776,Tonga,1,0,0,Oceania,Climatological,2010-2019
+780,Trinidad and Tobago,1,0,0,North America,Climatological,2010-2019
+788,Tunisia,1,0,2000,Africa,Climatological,2010-2019
+792,Turkey,,,,Europe,Climatological,2010-2019
+798,Tuvalu,1,0,0,Oceania,Climatological,2010-2019
+800,Uganda,1,0,669000,Africa,Climatological,2010-2019
+826,UK,,,,Europe,Climatological,2010-2019
+804,Ukraine,1,0,0,Europe,Climatological,2010-2019
+784,United Arab Emirates,,,,Asia,Climatological,2010-2019
+858,Uruguay,1,0,11135,South America,Climatological,2010-2019
+840,USA,34,202,300381,North America,Climatological,2010-2019
+860,Uzbekistan,,,,Asia,Climatological,2010-2019
+862,Venezuela,,,,South America,Climatological,2010-2019
+704,Vietnam,2,0,1750000,Asia,Climatological,2010-2019
+887,Yemen,,,,Asia,Climatological,2010-2019
+894,Zambia,,,,Africa,Climatological,2010-2019
+716,Zimbabwe,3,0,13567618,Africa,Climatological,2010-2019
+4,Afghanistan,5,217,97970,Asia,Geophysical,2010-2019
+8,Albania,3,51,14007,Europe,Geophysical,2010-2019
+12,Algeria,1,6,420,Africa,Geophysical,2010-2019
+16,American Samoa,,,,Oceania,Geophysical,2010-2019
+32,Argentina,2,0,3000,South America,Geophysical,2010-2019
+51,Armenia,,,,Asia,Geophysical,2010-2019
+36,Australia,,,,Oceania,Geophysical,2010-2019
+40,Austria,,,,Europe,Geophysical,2010-2019
+31,Azerbaijan,2,0,22499,Asia,Geophysical,2010-2019
+50,Bangladesh,2,9,270,Asia,Geophysical,2010-2019
+52,Barbados,,,,North America,Geophysical,2010-2019
+112,Belarus,,,,Europe,Geophysical,2010-2019
+56,Belgium,,,,Europe,Geophysical,2010-2019
+64,Bhutan,1,1,20016,Asia,Geophysical,2010-2019
+68,Bolivia,1,0,3000,South America,Geophysical,2010-2019
+76,Brazil,,,,South America,Geophysical,2010-2019
+100,Bulgaria,1,0,210,Europe,Geophysical,2010-2019
+108,Burundi,,,,Africa,Geophysical,2010-2019
+132,Cabo Verde,1,0,2500,Africa,Geophysical,2010-2019
+120,Cameroon,,,,Africa,Geophysical,2010-2019
+152,Chile,8,590,3902619,South America,Geophysical,2010-2019
+156,China,53,4265,8166393,Asia,Geophysical,2010-2019
+170,Colombia,2,0,51251,South America,Geophysical,2010-2019
+174,Comoros,1,0,10000,Africa,Geophysical,2010-2019
+188,Costa Rica,2,2,19212,North America,Geophysical,2010-2019
+191,Croatia,,,,Europe,Geophysical,2010-2019
+192,Cuba,,,,North America,Geophysical,2010-2019
+196,Cyprus,,,,Asia,Geophysical,2010-2019
+203,Czech Republic,,,,Europe,Geophysical,2010-2019
+180,Democratic Republic of the Congo,1,3,390,Africa,Geophysical,2010-2019
+212,Dominica,,,,North America,Geophysical,2010-2019
+214,Dominican Republic,,,,North America,Geophysical,2010-2019
+218,Ecuador,8,676,1322335,South America,Geophysical,2010-2019
+818,Egypt,,,,Africa,Geophysical,2010-2019
+222,El Salvador,3,1,65738,North America,Geophysical,2010-2019
+231,Ethiopia,,,,Africa,Geophysical,2010-2019
+242,Fiji,,,,Oceania,Geophysical,2010-2019
+246,Finland,,,,Europe,Geophysical,2010-2019
+250,France,1,0,754,Europe,Geophysical,2010-2019
+254,French Guiana,,,,South America,Geophysical,2010-2019
+266,Gabon,,,,Africa,Geophysical,2010-2019
+268,Georgia,,,,Asia,Geophysical,2010-2019
+276,Germany,,,,Europe,Geophysical,2010-2019
+300,Greece,4,6,77876,Europe,Geophysical,2010-2019
+312,Guadeloupe,,,,North America,Geophysical,2010-2019
+316,Guam,,,,Oceania,Geophysical,2010-2019
+320,Guatemala,8,510,3147312,North America,Geophysical,2010-2019
+332,Haiti,2,222587,3739336,North America,Geophysical,2010-2019
+340,Honduras,,,,North America,Geophysical,2010-2019
+348,Hungary,1,0,1800,Europe,Geophysical,2010-2019
+352,Iceland,1,0,0,Europe,Geophysical,2010-2019
+356,India,7,237,645928,Asia,Geophysical,2010-2019
+360,Indonesia,34,6530,1839040,Asia,Geophysical,2010-2019
+364,Iran,22,827,346248,Asia,Geophysical,2010-2019
+368,Iraq,1,10,5969,Asia,Geophysical,2010-2019
+372,Ireland,,,,Europe,Geophysical,2010-2019
+380,Italy,8,352,58554,Europe,Geophysical,2010-2019
+392,Japan,11,20018,824396,Asia,Geophysical,2010-2019
+398,Kazakhstan,,,,Asia,Geophysical,2010-2019
+404,Kenya,,,,Africa,Geophysical,2010-2019
+417,Kyrgyzstan,3,0,21780,Asia,Geophysical,2010-2019
+454,Malawi,,,,Africa,Geophysical,2010-2019
+458,Malaysia,1,24,10,Asia,Geophysical,2010-2019
+462,Maldives,,,,Asia,Geophysical,2010-2019
+474,Martinique,,,,North America,Geophysical,2010-2019
+484,Mexico,8,476,1561030,North America,Geophysical,2010-2019
+500,Montserrat,,,,North America,Geophysical,2010-2019
+504,Morocco,,,,Africa,Geophysical,2010-2019
+508,Mozambique,,,,Africa,Geophysical,2010-2019
+104,Myanmar,4,133,23915,Asia,Geophysical,2010-2019
+524,Nepal,3,8976,5810099,Asia,Geophysical,2010-2019
+528,Netherlands,,,,Europe,Geophysical,2010-2019
+554,New Zealand,6,205,615760,Oceania,Geophysical,2010-2019
+558,Nicaragua,1,2,12281,North America,Geophysical,2010-2019
+807,North Macedonia,1,0,100,Europe,Geophysical,2010-2019
+580,Northern Mariana Islands,,,,Oceania,Geophysical,2010-2019
+578,Norway,,,,Europe,Geophysical,2010-2019
+512,Oman,,,,Asia,Geophysical,2010-2019
+586,Pakistan,9,806,749986,Asia,Geophysical,2010-2019
+591,Panama,,,,North America,Geophysical,2010-2019
+598,Papua New Guinea,7,181,562867,Oceania,Geophysical,2010-2019
+604,Peru,10,18,70874,South America,Geophysical,2010-2019
+608,Philippines,21,447,4255413,Asia,Geophysical,2010-2019
+642,Romania,,,,Europe,Geophysical,2010-2019
+643,Russia,,,,Europe,Geophysical,2010-2019
+646,Rwanda,,,,Africa,Geophysical,2010-2019
+662,Saint Lucia,,,,North America,Geophysical,2010-2019
+882,Samoa,,,,Oceania,Geophysical,2010-2019
+682,Saudi Arabia,,,,Asia,Geophysical,2010-2019
+688,Serbia,1,2,27030,Europe,Geophysical,2010-2019
+690,Seychelles,,,,Africa,Geophysical,2010-2019
+705,Slovenia,,,,Europe,Geophysical,2010-2019
+90,Solomon Islands,3,10,14225,Oceania,Geophysical,2010-2019
+706,Somalia,,,,Africa,Geophysical,2010-2019
+710,South Africa,1,1,2002,Africa,Geophysical,2010-2019
+410,South Korea,2,0,34889,Asia,Geophysical,2010-2019
+724,Spain,1,10,15300,Europe,Geophysical,2010-2019
+144,Sri Lanka,,,,Asia,Geophysical,2010-2019
+729,Sudan,,,,Africa,Geophysical,2010-2019
+740,Suriname,,,,South America,Geophysical,2010-2019
+756,Switzerland,1,8,200,Europe,Geophysical,2010-2019
+762,Tajikistan,5,4,18502,Asia,Geophysical,2010-2019
+834,Tanzania,1,17,139601,Africa,Geophysical,2010-2019
+764,Thailand,2,2,17539,Asia,Geophysical,2010-2019
+626,Timor-Leste,1,0,2003,Asia,Geophysical,2010-2019
+776,Tonga,,,,Oceania,Geophysical,2010-2019
+780,Trinidad and Tobago,,,,North America,Geophysical,2010-2019
+792,Turkey,7,699,48901,Europe,Geophysical,2010-2019
+795,Turkmenistan,,,,Asia,Geophysical,2010-2019
+800,Uganda,1,4,590,Africa,Geophysical,2010-2019
+826,UK,,,,Europe,Geophysical,2010-2019
+784,United Arab Emirates,,,,Asia,Geophysical,2010-2019
+840,USA,5,1,6650,North America,Geophysical,2010-2019
+860,Uzbekistan,1,13,0,Asia,Geophysical,2010-2019
+548,Vanuatu,2,0,18286,Oceania,Geophysical,2010-2019
+862,Venezuela,,,,South America,Geophysical,2010-2019
+876,Wallis and Futuna,,,,Oceania,Geophysical,2010-2019
+887,Yemen,,,,Asia,Geophysical,2010-2019
+887,Yemen,,,,Asia,Geophysical,2010-2019
+4,Afghanistan,46,2218,453890,Asia,Hydrological,2010-2019
+8,Albania,7,4,82602,Europe,Hydrological,2010-2019
+12,Algeria,6,97,36094,Africa,Hydrological,2010-2019
+16,American Samoa,,,,Oceania,Hydrological,2010-2019
+24,Angola,19,401,334944,Africa,Hydrological,2010-2019
+32,Argentina,20,103,745569,South America,Hydrological,2010-2019
+51,Armenia,1,0,750,Asia,Hydrological,2010-2019
+36,Australia,12,49,212997,Oceania,Hydrological,2010-2019
+40,Austria,2,4,200,Europe,Hydrological,2010-2019
+31,Azerbaijan,1,3,70000,Asia,Hydrological,2010-2019
+44,Bahamas,1,0,1000,North America,Hydrological,2010-2019
+50,Bangladesh,20,910,26310843,Asia,Hydrological,2010-2019
+112,Belarus,1,0,50000,Europe,Hydrological,2010-2019
+56,Belgium,3,4,690,Europe,Hydrological,2010-2019
+84,Belize,1,0,20000,North America,Hydrological,2010-2019
+204,Benin,4,50,924575,Africa,Hydrological,2010-2019
+64,Bhutan,,,,Asia,Hydrological,2010-2019
+68,Bolivia,17,439,1534350,South America,Hydrological,2010-2019
+70,Bosnia and Herzegovina,9,30,1036269,Europe,Hydrological,2010-2019
+72,Botswana,4,12,11685,Africa,Hydrological,2010-2019
+76,Brazil,40,1646,3126578,South America,Hydrological,2010-2019
+100,Bulgaria,8,30,47147,Europe,Hydrological,2010-2019
+854,Burkina Faso,6,61,230458,Africa,Hydrological,2010-2019
+108,Burundi,13,226,64463,Africa,Hydrological,2010-2019
+132,Cabo Verde,,,,Africa,Hydrological,2010-2019
+116,Cambodia,9,538,4639790,Asia,Hydrological,2010-2019
+120,Cameroon,8,99,348770,Africa,Hydrological,2010-2019
+124,Canada,9,12,153317,North America,Hydrological,2010-2019
+140,Central African Republic,5,3,61013,Africa,Hydrological,2010-2019
+148,Chad,5,96,758670,Africa,Hydrological,2010-2019
+152,Chile,10,227,218918,South America,Hydrological,2010-2019
+156,China,124,8980,383784910,Asia,Hydrological,2010-2019
+170,Colombia,34,1664,4677118,South America,Hydrological,2010-2019
+174,Comoros,1,4,65137,Africa,Hydrological,2010-2019
+188,Costa Rica,6,38,194180,North America,Hydrological,2010-2019
+384,Côte d’Ivoire,8,135,31650,Africa,Hydrological,2010-2019
+191,Croatia,8,4,13462,Europe,Hydrological,2010-2019
+192,Cuba,3,7,13316,North America,Hydrological,2010-2019
+203,Czech Republic,4,26,1301400,Europe,Hydrological,2010-2019
+180,Democratic Republic of the Congo,20,762,833761,Africa,Hydrological,2010-2019
+262,Djibouti,2,9,400000,Africa,Hydrological,2010-2019
+214,Dominican Republic,12,29,2881860,North America,Hydrological,2010-2019
+218,Ecuador,12,109,146257,South America,Hydrological,2010-2019
+818,Egypt,2,27,3500,Africa,Hydrological,2010-2019
+222,El Salvador,3,40,307099,North America,Hydrological,2010-2019
+232,Eritrea,,,,Africa,Hydrological,2010-2019
+748,Eswatini,1,11,400,Africa,Hydrological,2010-2019
+231,Ethiopia,11,214,1076101,Africa,Hydrological,2010-2019
+242,Fiji,2,15,19545,Oceania,Hydrological,2010-2019
+246,Finland,,,,Europe,Hydrological,2010-2019
+250,France,12,92,12812,Europe,Hydrological,2010-2019
+254,French Guiana,,,,South America,Hydrological,2010-2019
+258,French Polynesia,1,0,5004,Oceania,Hydrological,2010-2019
+266,Gabon,1,1,77845,Africa,Hydrological,2010-2019
+270,Gambia,3,11,42261,Africa,Hydrological,2010-2019
+268,Georgia,8,52,155319,Asia,Hydrological,2010-2019
+276,Germany,5,18,6950,Europe,Hydrological,2010-2019
+288,Ghana,11,198,1246377,Africa,Hydrological,2010-2019
+300,Greece,7,32,7074,Europe,Hydrological,2010-2019
+320,Guatemala,18,510,774592,North America,Hydrological,2010-2019
+324,Guinea,7,24,112682,Africa,Hydrological,2010-2019
+624,Guinea-Bissau,1,2,56792,Africa,Hydrological,2010-2019
+328,Guyana,2,0,202274,South America,Hydrological,2010-2019
+332,Haiti,20,238,309210,North America,Hydrological,2010-2019
+340,Honduras,11,189,603276,North America,Hydrological,2010-2019
+344,Hong Kong,,,,Asia,Hydrological,2010-2019
+348,Hungary,4,1,59347,Europe,Hydrological,2010-2019
+352,Iceland,,,,Europe,Hydrological,2010-2019
+356,India,82,14223,97507675,Asia,Hydrological,2010-2019
+360,Indonesia,91,1761,2824303,Asia,Hydrological,2010-2019
+364,Iran,12,240,10477661,Asia,Hydrological,2010-2019
+368,Iraq,6,110,97866,Asia,Hydrological,2010-2019
+372,Ireland,2,2,900,Europe,Hydrological,2010-2019
+376,Israel,2,14,0,Asia,Hydrological,2010-2019
+380,Italy,17,69,16985,Europe,Hydrological,2010-2019
+388,Jamaica,,,,North America,Hydrological,2010-2019
+392,Japan,12,457,1609099,Asia,Hydrological,2010-2019
+400,Jordan,2,34,64,Asia,Hydrological,2010-2019
+398,Kazakhstan,8,53,77379,Asia,Hydrological,2010-2019
+404,Kenya,22,1007,1344933,Africa,Hydrological,2010-2019
+296,Kiribati,1,0,220,Oceania,Hydrological,2010-2019
+414,Kuwait,1,1,0,Asia,Hydrological,2010-2019
+417,Kyrgyzstan,3,24,19405,Asia,Hydrological,2010-2019
+418,Laos,10,232,1438547,Asia,Hydrological,2010-2019
+422,Lebanon,,,,Asia,Hydrological,2010-2019
+426,Lesotho,2,26,5000,Africa,Hydrological,2010-2019
+430,Liberia,2,1,30917,Africa,Hydrological,2010-2019
+434,Libya,2,20,22030,Africa,Hydrological,2010-2019
+440,Lithuania,1,4,0,Europe,Hydrological,2010-2019
+442,Luxembourg,,,,Europe,Hydrological,2010-2019
+450,Madagascar,1,26,24000,Africa,Hydrological,2010-2019
+454,Malawi,16,374,1927346,Africa,Hydrological,2010-2019
+458,Malaysia,16,53,416140,Asia,Hydrological,2010-2019
+462,Maldives,,,,Asia,Hydrological,2010-2019
+466,Mali,10,71,125046,Africa,Hydrological,2010-2019
+584,Marshall Islands,1,0,360,Oceania,Hydrological,2010-2019
+478,Mauritania,3,11,48880,Africa,Hydrological,2010-2019
+480,Mauritius,1,11,82,Africa,Hydrological,2010-2019
+484,Mexico,19,286,1560562,North America,Hydrological,2010-2019
+583,Micronesia,,,,Oceania,Hydrological,2010-2019
+498,Moldova,1,1,12000,Europe,Hydrological,2010-2019
+496,Mongolia,3,29,8801,Asia,Hydrological,2010-2019
+499,Montenegro,2,0,6350,Europe,Hydrological,2010-2019
+504,Morocco,5,85,77038,Africa,Hydrological,2010-2019
+508,Mozambique,14,464,944993,Africa,Hydrological,2010-2019
+104,Myanmar,23,696,3141349,Asia,Hydrological,2010-2019
+516,Namibia,5,116,627652,Africa,Hydrological,2010-2019
+524,Nepal,24,1611,2032647,Asia,Hydrological,2010-2019
+528,Netherlands,,,,Europe,Hydrological,2010-2019
+554,New Zealand,5,1,3100,Oceania,Hydrological,2010-2019
+558,Nicaragua,9,132,353337,North America,Hydrological,2010-2019
+562,Niger,16,428,1928244,Africa,Hydrological,2010-2019
+566,Nigeria,17,1026,10793062,Africa,Hydrological,2010-2019
+408,North Korea,10,936,2301181,Asia,Hydrological,2010-2019
+807,North Macedonia,4,30,143523,Europe,Hydrological,2010-2019
+578,Norway,,,,Europe,Hydrological,2010-2019
+512,Oman,3,11,200,Asia,Hydrological,2010-2019
+586,Pakistan,40,5057,36525954,Asia,Hydrological,2010-2019
+275,Palestine,3,5,14500,Asia,Hydrological,2010-2019
+591,Panama,10,30,50005,North America,Hydrological,2010-2019
+598,Papua New Guinea,6,75,282000,Oceania,Hydrological,2010-2019
+600,Paraguay,11,29,1183345,South America,Hydrological,2010-2019
+604,Peru,21,592,3585579,South America,Hydrological,2010-2019
+608,Philippines,57,788,19189105,Asia,Hydrological,2010-2019
+616,Poland,3,21,100703,Europe,Hydrological,2010-2019
+620,Portugal,2,44,618,Europe,Hydrological,2010-2019
+630,Puerto Rico,2,1,400,North America,Hydrological,2010-2019
+634,Qatar,1,0,1500,Asia,Hydrological,2010-2019
+178,Republic of the Congo,3,19,9614,Africa,Hydrological,2010-2019
+642,Romania,10,47,23024,Europe,Hydrological,2010-2019
+643,Russia,21,282,256716,Europe,Hydrological,2010-2019
+646,Rwanda,13,267,60517,Africa,Hydrological,2010-2019
+662,Saint Lucia,2,6,21984,North America,Hydrological,2010-2019
+670,Saint Vincent and the Grenadines,3,12,42697,North America,Hydrological,2010-2019
+882,Samoa,,,,Oceania,Hydrological,2010-2019
+682,Saudi Arabia,14,161,3920,Asia,Hydrological,2010-2019
+686,Senegal,7,40,347656,Africa,Hydrological,2010-2019
+688,Serbia,13,58,88036,Europe,Hydrological,2010-2019
+690,Seychelles,1,0,4435,Africa,Hydrological,2010-2019
+694,Sierra Leone,6,1156,41458,Africa,Hydrological,2010-2019
+703,Slovakia,3,5,850,Europe,Hydrological,2010-2019
+705,Slovenia,2,3,14550,Europe,Hydrological,2010-2019
+90,Solomon Islands,4,49,83080,Oceania,Hydrological,2010-2019
+706,Somalia,13,80,2362496,Africa,Hydrological,2010-2019
+710,South Africa,10,199,344706,Africa,Hydrological,2010-2019
+410,South Korea,4,138,31026,Asia,Hydrological,2010-2019
+728,South Sudan,8,149,1284800,Africa,Hydrological,2010-2019
+724,Spain,10,47,7465,Europe,Hydrological,2010-2019
+144,Sri Lanka,26,1169,5681179,Asia,Hydrological,2010-2019
+729,Sudan,13,526,1663459,Africa,Hydrological,2010-2019
+740,Suriname,,,,South America,Hydrological,2010-2019
+756,Switzerland,,,,Europe,Hydrological,2010-2019
+760,Syria,1,2,235000,Asia,Hydrological,2010-2019
+762,Tajikistan,14,132,66258,Asia,Hydrological,2010-2019
+834,Tanzania,16,175,272124,Africa,Hydrological,2010-2019
+764,Thailand,19,1438,27826191,Asia,Hydrological,2010-2019
+626,Timor-Leste,,,,Asia,Hydrological,2010-2019
+768,Togo,3,22,127610,Africa,Hydrological,2010-2019
+780,Trinidad and Tobago,1,0,150000,North America,Hydrological,2010-2019
+788,Tunisia,2,13,30000,Africa,Hydrological,2010-2019
+792,Turkey,8,89,7029,Europe,Hydrological,2010-2019
+795,Turkmenistan,,,,Asia,Hydrological,2010-2019
+800,Uganda,16,741,335564,Africa,Hydrological,2010-2019
+826,UK,10,11,52995,Europe,Hydrological,2010-2019
+804,Ukraine,3,11,42519,Europe,Hydrological,2010-2019
+784,United Arab Emirates,1,0,188,Asia,Hydrological,2010-2019
+858,Uruguay,8,8,58673,South America,Hydrological,2010-2019
+840,USA,40,335,313857,North America,Hydrological,2010-2019
+860,Uzbekistan,,,,Asia,Hydrological,2010-2019
+548,Vanuatu,,,,Oceania,Hydrological,2010-2019
+862,Venezuela,10,66,167465,South America,Hydrological,2010-2019
+704,Vietnam,32,864,6816319,Asia,Hydrological,2010-2019
+887,Yemen,9,178,159872,Asia,Hydrological,2010-2019
+894,Zambia,6,13,24525,Africa,Hydrological,2010-2019
+716,Zimbabwe,6,165,13022,Africa,Hydrological,2010-2019
+4,Afghanistan,5,196,9128,Asia,Meteorological,2010-2019
+8,Albania,2,11,230000,Europe,Meteorological,2010-2019
+12,Algeria,2,8,250025,Africa,Meteorological,2010-2019
+16,American Samoa,,,,Oceania,Meteorological,2010-2019
+660,Anguilla,1,4,15000,North America,Meteorological,2010-2019
+28,Antigua and Barbuda,2,1,6400,North America,Meteorological,2010-2019
+32,Argentina,6,75,15242,South America,Meteorological,2010-2019
+51,Armenia,4,0,97600,Asia,Meteorological,2010-2019
+36,Australia,15,172,126377,Oceania,Meteorological,2010-2019
+40,Austria,5,21,330,Europe,Meteorological,2010-2019
+31,Azerbaijan,1,5,0,Asia,Meteorological,2010-2019
+44,Bahamas,6,404,31710,North America,Meteorological,2010-2019
+50,Bangladesh,28,810,9581797,Asia,Meteorological,2010-2019
+52,Barbados,2,1,2500,North America,Meteorological,2010-2019
+112,Belarus,4,49,93494,Europe,Meteorological,2010-2019
+56,Belgium,14,1137,71,Europe,Meteorological,2010-2019
+84,Belize,2,0,10355,North America,Meteorological,2010-2019
+204,Benin,,,,Africa,Meteorological,2010-2019
+60,Bermuda,,,,North America,Meteorological,2010-2019
+64,Bhutan,,,,Asia,Meteorological,2010-2019
+68,Bolivia,2,22,17490,South America,Meteorological,2010-2019
+70,Bosnia and Herzegovina,2,6,10347,Europe,Meteorological,2010-2019
+72,Botswana,,,,Africa,Meteorological,2010-2019
+76,Brazil,3,36,24901,South America,Meteorological,2010-2019
+92,British Virgin Islands,2,9,0,North America,Meteorological,2010-2019
+100,Bulgaria,4,37,40,Europe,Meteorological,2010-2019
+108,Burundi,2,21,1550,Africa,Meteorological,2010-2019
+132,Cabo Verde,1,9,0,Africa,Meteorological,2010-2019
+116,Cambodia,1,0,6300,Asia,Meteorological,2010-2019
+124,Canada,11,83,950,North America,Meteorological,2010-2019
+136,Cayman Islands,,,,North America,Meteorological,2010-2019
+140,Central African Republic,6,2,19274,Africa,Meteorological,2010-2019
+148,Chad,,,,Africa,Meteorological,2010-2019
+152,Chile,5,6,52038,South America,Meteorological,2010-2019
+156,China,109,1640,74832013,Asia,Meteorological,2010-2019
+170,Colombia,2,11,18,South America,Meteorological,2010-2019
+174,Comoros,3,8,354822,Africa,Meteorological,2010-2019
+184,Cook Islands,1,0,2202,Oceania,Meteorological,2010-2019
+188,Costa Rica,2,22,61500,North America,Meteorological,2010-2019
+191,Croatia,4,7,3500,Europe,Meteorological,2010-2019
+192,Cuba,7,37,10448752,North America,Meteorological,2010-2019
+196,Cyprus,,,,Asia,Meteorological,2010-2019
+203,Czech Republic,5,47,0,Europe,Meteorological,2010-2019
+180,Democratic Republic of the Congo,,,,Africa,Meteorological,2010-2019
+208,Denmark,3,2,0,Europe,Meteorological,2010-2019
+262,Djibouti,1,2,25000,Africa,Meteorological,2010-2019
+212,Dominica,3,94,100227,North America,Meteorological,2010-2019
+214,Dominican Republic,11,20,151235,North America,Meteorological,2010-2019
+818,Egypt,5,198,32813,Africa,Meteorological,2010-2019
+222,El Salvador,5,39,32604,North America,Meteorological,2010-2019
+232,Eritrea,,,,Africa,Meteorological,2010-2019
+233,Estonia,2,8,0,Europe,Meteorological,2010-2019
+748,Eswatini,,,,Africa,Meteorological,2010-2019
+242,Fiji,7,59,780039,Oceania,Meteorological,2010-2019
+246,Finland,,,,Europe,Meteorological,2010-2019
+250,France,26,4810,502256,Europe,Meteorological,2010-2019
+258,French Polynesia,1,1,3411,Oceania,Meteorological,2010-2019
+266,Gabon,2,0,3530,Africa,Meteorological,2010-2019
+270,Gambia,,,,Africa,Meteorological,2010-2019
+268,Georgia,2,0,7768,Asia,Meteorological,2010-2019
+276,Germany,17,41,39,Europe,Meteorological,2010-2019
+288,Ghana,1,20,12,Africa,Meteorological,2010-2019
+300,Greece,3,12,123,Europe,Meteorological,2010-2019
+308,Grenada,,,,North America,Meteorological,2010-2019
+312,Guadeloupe,1,4,80002,North America,Meteorological,2010-2019
+316,Guam,,,,Oceania,Meteorological,2010-2019
+320,Guatemala,10,194,526394,North America,Meteorological,2010-2019
+324,Guinea,,,,Africa,Meteorological,2010-2019
+624,Guinea-Bissau,1,3,11541,Africa,Meteorological,2010-2019
+332,Haiti,11,673,2433543,North America,Meteorological,2010-2019
+340,Honduras,4,26,24946,North America,Meteorological,2010-2019
+344,Hong Kong,4,1,15456,Asia,Meteorological,2010-2019
+348,Hungary,4,16,22498,Europe,Meteorological,2010-2019
+352,Iceland,,,,Europe,Meteorological,2010-2019
+356,India,67,7266,36231150,Asia,Meteorological,2010-2019
+360,Indonesia,3,32,12585,Asia,Meteorological,2010-2019
+364,Iran,1,4,2000,Asia,Meteorological,2010-2019
+372,Ireland,3,4,0,Europe,Meteorological,2010-2019
+376,Israel,2,4,2003200,Asia,Meteorological,2010-2019
+380,Italy,15,97,3417,Europe,Meteorological,2010-2019
+388,Jamaica,4,16,348356,North America,Meteorological,2010-2019
+392,Japan,57,1502,1010501,Asia,Meteorological,2010-2019
+400,Jordan,,,,Asia,Meteorological,2010-2019
+398,Kazakhstan,1,0,5000,Asia,Meteorological,2010-2019
+296,Kiribati,1,0,1500,Oceania,Meteorological,2010-2019
+417,Kyrgyzstan,2,16,50,Asia,Meteorological,2010-2019
+418,Laos,3,0,735145,Asia,Meteorological,2010-2019
+428,Latvia,1,10,0,Europe,Meteorological,2010-2019
+422,Lebanon,5,23,1012701,Asia,Meteorological,2010-2019
+426,Lesotho,1,0,2600,Africa,Meteorological,2010-2019
+430,Liberia,,,,Africa,Meteorological,2010-2019
+440,Lithuania,4,40,0,Europe,Meteorological,2010-2019
+442,Luxembourg,2,0,1519,Europe,Meteorological,2010-2019
+446,Macao,2,10,200,Asia,Meteorological,2010-2019
+450,Madagascar,15,613,1539834,Africa,Meteorological,2010-2019
+454,Malawi,2,5,6350,Africa,Meteorological,2010-2019
+458,Malaysia,1,0,426,Asia,Meteorological,2010-2019
+462,Maldives,,,,Asia,Meteorological,2010-2019
+584,Marshall Islands,1,0,0,Oceania,Meteorological,2010-2019
+474,Martinique,2,1,2,North America,Meteorological,2010-2019
+478,Mauritania,1,18,2040,Africa,Meteorological,2010-2019
+480,Mauritius,1,0,30000,Africa,Meteorological,2010-2019
+484,Mexico,35,496,1683161,North America,Meteorological,2010-2019
+583,Micronesia,2,5,45000,Oceania,Meteorological,2010-2019
+498,Moldova,2,10,12834,Europe,Meteorological,2010-2019
+496,Mongolia,5,0,1388000,Asia,Meteorological,2010-2019
+499,Montenegro,1,1,4500,Europe,Meteorological,2010-2019
+500,Montserrat,,,,North America,Meteorological,2010-2019
+504,Morocco,7,49,2594500,Africa,Meteorological,2010-2019
+508,Mozambique,8,712,2763354,Africa,Meteorological,2010-2019
+104,Myanmar,5,80,467525,Asia,Meteorological,2010-2019
+524,Nepal,6,252,40029,Asia,Meteorological,2010-2019
+528,Netherlands,9,406,0,Europe,Meteorological,2010-2019
+540,New Caledonia,,,,Oceania,Meteorological,2010-2019
+554,New Zealand,3,3,640,Oceania,Meteorological,2010-2019
+558,Nicaragua,4,20,49770,North America,Meteorological,2010-2019
+562,Niger,,,,Africa,Meteorological,2010-2019
+566,Nigeria,3,54,16012,Africa,Meteorological,2010-2019
+570,Niue,,,,Oceania,Meteorological,2010-2019
+408,North Korea,6,180,106978,Asia,Meteorological,2010-2019
+807,North Macedonia,3,4,16120,Europe,Meteorological,2010-2019
+580,Northern Mariana Islands,2,2,360,Oceania,Meteorological,2010-2019
+578,Norway,1,4,500,Europe,Meteorological,2010-2019
+512,Oman,5,36,6200,Asia,Meteorological,2010-2019
+586,Pakistan,9,1686,84521,Asia,Meteorological,2010-2019
+585,Palau,2,0,1250,Oceania,Meteorological,2010-2019
+275,Palestine,3,5,81121,Asia,Meteorological,2010-2019
+591,Panama,2,14,24000,North America,Meteorological,2010-2019
+598,Papua New Guinea,3,0,21545,Oceania,Meteorological,2010-2019
+600,Paraguay,5,19,87125,South America,Meteorological,2010-2019
+604,Peru,7,1224,503731,South America,Meteorological,2010-2019
+608,Philippines,81,12552,75848621,Asia,Meteorological,2010-2019
+616,Poland,15,725,7581,Europe,Meteorological,2010-2019
+620,Portugal,9,9,4109,Europe,Meteorological,2010-2019
+630,Puerto Rico,6,67,752271,North America,Meteorological,2010-2019
+638,Réunion,2,1,465,Africa,Meteorological,2010-2019
+642,Romania,5,162,7676,Europe,Meteorological,2010-2019
+643,Russia,7,56011,1820,Europe,Meteorological,2010-2019
+646,Rwanda,2,3,6553,Africa,Meteorological,2010-2019
+652,Saint Barthélemy,1,4,0,North America,Meteorological,2010-2019
+654,Saint Helena,,,,Africa,Meteorological,2010-2019
+659,Saint Kitts and Nevis,1,0,0,North America,Meteorological,2010-2019
+662,Saint Lucia,2,14,206000,North America,Meteorological,2010-2019
+663,Saint Martin,1,7,0,North America,Meteorological,2010-2019
+670,Saint Vincent and the Grenadines,2,0,6100,North America,Meteorological,2010-2019
+882,Samoa,2,12,12703,Oceania,Meteorological,2010-2019
+682,Saudi Arabia,1,3,122,Asia,Meteorological,2010-2019
+686,Senegal,,,,Africa,Meteorological,2010-2019
+688,Serbia,7,36,91234,Europe,Meteorological,2010-2019
+690,Seychelles,1,0,3000,Africa,Meteorological,2010-2019
+694,Sierra Leone,,,,Africa,Meteorological,2010-2019
+534,Sint Maarten,1,4,11400,North America,Meteorological,2010-2019
+703,Slovakia,4,128,0,Europe,Meteorological,2010-2019
+705,Slovenia,1,1,50000,Europe,Meteorological,2010-2019
+90,Solomon Islands,5,9,46086,Oceania,Meteorological,2010-2019
+706,Somalia,5,221,404380,Africa,Meteorological,2010-2019
+710,South Africa,9,84,24019,Africa,Meteorological,2010-2019
+410,South Korea,12,93,131035,Asia,Meteorological,2010-2019
+724,Spain,9,27,320,Europe,Meteorological,2010-2019
+144,Sri Lanka,4,56,271457,Asia,Meteorological,2010-2019
+729,Sudan,2,36,30,Africa,Meteorological,2010-2019
+752,Sweden,1,7,0,Europe,Meteorological,2010-2019
+756,Switzerland,10,17,103,Europe,Meteorological,2010-2019
+760,Syria,2,13,3500,Asia,Meteorological,2010-2019
+762,Tajikistan,2,1,2500,Asia,Meteorological,2010-2019
+834,Tanzania,2,47,2005112,Africa,Meteorological,2010-2019
+764,Thailand,8,105,2751445,Asia,Meteorological,2010-2019
+626,Timor-Leste,,,,Asia,Meteorological,2010-2019
+772,Tokelau,,,,Oceania,Meteorological,2010-2019
+776,Tonga,6,1,91406,Oceania,Meteorological,2010-2019
+780,Trinidad and Tobago,,,,North America,Meteorological,2010-2019
+792,Turkey,1,0,270,Europe,Meteorological,2010-2019
+796,Turks and Caicos,1,0,0,North America,Meteorological,2010-2019
+798,Tuvalu,1,0,4613,Oceania,Meteorological,2010-2019
+800,Uganda,1,23,47,Africa,Meteorological,2010-2019
+826,UK,11,784,37804,Europe,Meteorological,2010-2019
+804,Ukraine,5,269,88626,Europe,Meteorological,2010-2019
+784,United Arab Emirates,,,,Asia,Meteorological,2010-2019
+850,United States Virgin Islands,2,7,0,North America,Meteorological,2010-2019
+858,Uruguay,1,4,0,South America,Meteorological,2010-2019
+840,USA,150,2459,88053581,North America,Meteorological,2010-2019
+548,Vanuatu,5,23,242570,Oceania,Meteorological,2010-2019
+862,Venezuela,1,8,0,South America,Meteorological,2010-2019
+704,Vietnam,31,508,8601814,Asia,Meteorological,2010-2019
+876,Wallis and Futuna,1,0,1252,Oceania,Meteorological,2010-2019
+887,Yemen,4,75,140939,Asia,Meteorological,2010-2019
+716,Zimbabwe,4,920,385684,Africa,Meteorological,2010-2019
+254,French Guiana,,,,South America,Meteorological,2010-2019
+740,Suriname,,,,South America,Meteorological,2010-2019
